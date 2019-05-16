@@ -1,0 +1,975 @@
+,UMLS_CUI,synonyms,root
+0,C0004604,"Back ache,Back pain,Back pain NOS,Backache,Backache (finding),Backache NOS,Dorsalgia,Dorsalgia, unspecified,Pain in back",Backache
+1,C0000737,"AP - Abdominal pain,Abdominal pain,Abdominal pain (finding),Unspecified abdominal pain",Abdominal pain
+2,C0024031,"LBP - Low back pain,Low back pain,Low back pain,Low back pain (finding),Low back syndrome,Lumbago,Lumbago NOS,Lumbalgia,Lumbar pain,Nonspecific pain in the lumbar region",Low back pain
+3,C0003467,"Anxiety,Anxiety (finding),Anxiety reaction,Anxiety reaction,Anxiousness,Feeling anxious",Anxiety
+4,C0008031,"Chest pain,Chest pain (finding),Chest pain, unspecified",Chest pain
+5,C0018681,"Cephalalgia,Cephalgia,Cephalodynia,HA - Headache,Head pain,Headache,Headache,Headache (finding),Pain in head",Headache
+6,C0549206,"Pregnancy not delivered,Pregnant,Pregnant (finding)",Pregnant
+7,C0231749,"Arthralgia of knee,Gonalgia,Knee joint pain,Knee pain,Knee pain (finding),Pain in knee,Pain in unspecified knee",Knee pain
+8,C0010200,"C/O - cough,Complaining of cough,Complaining of cough (finding),Cough,Cough,Cough (finding),Coughing,Coughing (observable entity),Observation of cough",Cough
+9,C0009806,"CN - Constipation,Constipated,Constipation,Constipation,Constipation (finding),Constipation, unspecified,Costiveness,Difficult passing motion,Difficulty defaecating,Difficulty defecating,Difficulty opening bowels,Difficulty passing stool",Constipation
+10,C0015672,"Fatigue,Fatigue (finding),Fatigue NOS,Lack of energy,Lack of energy,Lack of energy (finding),Lacking in energy,Tiredness,Weariness",Fatigue
+11,C1384485,"Delivery normal,Delivery normal (finding),FTND - Full term normal delivery,Normal delivery,SVD - Spontaneous vaginal delivery,Spontaneous vaginal delivery",Delivery normal
+12,C3853727,"Tobacco use,Tobacco user,Tobacco user (finding)",Tobacco user
+13,C0007859,"Cervical pain,Cervicalgia,Cervicalgia,Neck ache,Neck pain,Neck pain (finding),Nonspecific pain in the neck region,Painful neck",Neck pain
+14,C0004093,"Asthenia,Asthenia (finding),Asthenia NOS",Asthenia
+15,C0037011,"Pain in shoulder,Pain in unspecified shoulder,Shoulder pain,Shoulder pain (finding),Shoulder region pain",Shoulder pain
+16,C0013404,"Breathless,Breathlessness,DIB - Difficulty in breathing,Difficulty breathing,Difficulty breathing (finding),Dyspnea,Dyspnea,Dyspnea (finding),Dyspnea, unspecified,Dyspnoea,Respiration difficult,SOB - Shortness of breath,Shortness of breath,Shortness of breath",Dyspnea
+17,C0011991,"D - Diarrhea,D - Diarrhoea,Diarrhea,Diarrhea (finding),Diarrhea NOS,Diarrhea symptom,Diarrhea symptom (finding),Diarrhea, unspecified,Diarrhoea,Diarrhoea symptom,Observation of diarrhea,Observation of diarrhoea",Diarrhea
+18,C0012833,"Dizziness,Dizziness (finding),Dizzy",Dizziness
+19,C0086839,"Postpartum,Postpartum (qualifier value),Postpartum period,Postpartum state,Postpartum state (finding),Puerperal,Puerperium",Postpartum state
+20,C0030252,"Palpitations,Palpitations,Palpitations (finding)",Palpitations
+21,C0032739,"Mantoux: positive,Mantoux: positive (finding),PPD positive,Positive PPD",Mantoux: positive
+22,C0015967,"Body temperature above reference range,Body temperature above reference range (finding),Febrile,Fever,Fever (finding),Fever NOS,Fever, unspecified,Has a temperature,High body temperature,Hyperthermia,Increased body temperature,Pyrexia,Pyrexia NOS,Pyrexial,Temperature elevated,Temperature raised",Fever
+23,C0456128,"Baby full term maturity,Term infant,Term infant (finding)",Term infant
+24,C0042024,"Absence of bladder continence,Bladder incontinence,Bladder: incontinent,Incontinence of urine,Involuntary urination,Lack of bladder control,Leaking of urine,Loss of bladder control,UI - Urinary incontinence,Unable to control bladder,Unable to hold fluids,Unable to hold urine,Unable to prevent bladder emptying,Unspecified urinary incontinence,Urinary incontinence,Urinary incontinence (finding),Urine incontinence,Weak bladder",Urinary incontinence
+25,C0036572,"Convulsion,Fit,Fit - convulsion,Fitting,Seizure,Seizure (finding)",Seizure
+26,C0424671,"BMI 30+ - obesity,Body mass index 30+ - obesity,Body mass index 30+ - obesity (finding)",Body mass index 30+ - obesity
+27,C0024103,"Breast irregular nodularity,Breast lump,Breast lump (finding),Breast mass,Lumpy breast,Lumpy breasts,Mass in breast,Unspecified lump in breast",Breast lump
+28,C0476427,"Abnormal Papanicolaou smear of cervix NOS,Abnormal cervical Papanicolaou smear,Abnormal cervical Papanicolaou smear (finding),Abnormal cervical smear,Abnormal cervical smear (finding)",Abnormal cervical smear
+29,C0476427,"Abnormal Papanicolaou smear of cervix NOS,Abnormal cervical Papanicolaou smear,Abnormal cervical Papanicolaou smear (finding),Abnormal cervical smear,Abnormal cervical smear (finding)",Abnormal cervical Papanicolaou smear
+30,C0023222,"Pain in lower limb,Pain in lower limb (finding),Pain in lower limb NOS,Pain in unspecified lower leg",Pain in lower limb
+31,C0042571,"Feel I'm spinning round,Rotary vertigo,Rotation of self,Rotatory vertigo,Subjective vertigo,Subjective vertigo (finding),Vertigo,Vertigo (finding),Vertigo (spinning sensation),Vertigo NOS",Vertigo
+32,C0457949,"CLBP - Chronic low back pain,Chronic low back pain,Chronic low back pain (finding)",Chronic low back pain
+33,C0013604,"Dropsy,Edema,Edema,Edema (finding),Edema (morphologic abnormality),Edema - lesion,Edema, unspecified,Edematous,Hydrops,Hydrops (morphologic abnormality),Interstitial edema,Interstitial oedema,Oedema,Oedema,Oedema - lesion,Oedematous",Edema
+34,C0019559,"Arthralgia of hip,Hip joint pain,Hip pain,Hip pain (finding),Pain in hip,Pain in unspecified hip",Hip pain
+35,C4509972,"Requires vaccination,Requires vaccination (finding)",Requires vaccination
+36,C0262384,"Atypical chest pain,Atypical chest pain (finding)",Atypical chest pain
+37,C0018808,"Cardiac murmur, unspecified,Finding of heart murmur,Heart murmur,Heart murmur,Heart murmur (finding),Heart murmur (observable entity),Heart murmur NOS,Murmur,Murmur (finding),Observation of heart murmur",Heart murmur
+38,C0151766,"Abnormal results of liver function studies,Abnormal results of liver function studies,Liver function tests abnormal,Liver function tests abnormal (finding)",Liver function tests abnormal
+39,C0567312,"Menopause,Menopause present,Menopause present (finding)",Menopause present
+40,C0040460,"Dentagra,Dentalgia,Odontalgia,Pain in tooth,Toothache,Toothache (finding),Toothache NOS",Toothache
+41,C0178415,"Elevated PSA,Elevated prostate specific antigen [PSA],Elevated prostate specific antigen [PSA],Raised PSA,Raised prostate specific antigen,Raised prostate specific antigen (finding)",Raised prostate specific antigen
+42,C0337664,"Smoker,Smoker (finding)",Smoker
+43,C0156404,"Irregular menstrual bleeding,Irregular menstrual cycle,Irregular menstruation,Irregular menstruation, unspecified,Irregular periods,Irregular periods (finding),Irregular periods NOS,Irregular uterine bleeding,Menstrual periods irregular,Variable menstrual cycle",Irregular periods
+44,C0040264,"Noise in ears,Noises in ear,Noises in ear (finding),Noises in head,Observation of tinnitus,Ringing in ear,Ringing in ear (finding),Ringing in ears,Tinnitus,Tinnitus,Tinnitus (finding),Tinnitus, unspecified ear",Tinnitus
+45,C0242429,"Pain in the pharynx,Pain in throat,Pain in throat,Pain in throat (finding),Pharyngeal pain,Sore throat,Sore throat symptom,Sore throat symptom (finding),Throat discomfort,Throat pain,Throat soreness",Sore throat symptom
+46,C0016512,"Foot pain,Foot pain (finding)",Foot pain
+47,C0232493,"Epigastric pain,Epigastric pain,Epigastric pain (finding)",Epigastric pain
+48,C1262477,"Losing weight,Progressive weight loss,Weight decreased,Weight decreased (finding),Weight decreasing,Weight decreasing (finding),Weight loss,Weight loss (finding)",Weight decreased
+49,C2733146,"Type 2 diabetes mellitus uncontrolled,Type II diabetes mellitus poorly controlled,Type II diabetes mellitus uncontrolled,Type II diabetes mellitus uncontrolled (finding)",Type II diabetes mellitus uncontrolled
+50,C0025323,"Flooding during periods,Heavy menstrual bleeding,Heavy period,Heavy periods,Heavy periods NOS,Hypermenorrhea,Hypermenorrhoea,Menorrhagia,Menorrhagia (finding),Menorrhagia NOS,Profuse menstrual flow",Menorrhagia
+51,C0003862,"Arthralgia,Articular pain,Joint pain,Joint pain (finding),Pain in joint,Painful joint",Joint pain
+52,C0281856,"Generalised aches and pains,Generalised body aches,Generalised pain,Generalized aches and pains,Generalized aches and pains (finding),Generalized body aches,Generalized pain,Generalized pain NOS",Generalized aches and pains
+53,C0423658,"Ankle and/or foot joint pain,Arthralgia of the ankle and foot,Arthralgia of the ankle and/or foot,Arthralgia of the ankle and/or foot (finding)",Arthralgia of the ankle and/or foot
+54,C0559229,"NAD - No abnormality detected,No abnormality detected,No abnormality detected (finding)",No abnormality detected
+55,C0030794,"Pain in pelvis,Pain in pelvis (finding)",Pain in pelvis
+56,C0013395,"Dyspepsia,Dyspepsia,Indigestion,Indigestion,Indigestion (finding)",Indigestion
+57,C0025874,"Bleeding between periods,Bleeding between periods (finding),Bleeding unrelated to menstrual cycle,DUB - Dysfunctional uterine bleeding,DUH - Dysfunctional uterine haemorrhage,DUH - Dysfunctional uterine hemorrhage,Dysfunctional uterine bleeding,Dysfunctional uterine bleeding (finding),Dysfunctional uterine haemorrhage,Dysfunctional uterine hemorrhage,IMB - Intermenstrual bleeding,Intermenstrual bleeding,Intermenstrual bleeding - irregular,Intermenstrual bleeding - irregular (finding),Irregular intermenstrual bleeding,Irregular intermenstrual bleeding,Metrorrhagia,Metrorrhagia,Mid-cycle bleeding,Spotting between periods",Dysfunctional uterine bleeding
+58,C0042023,"FOM - Frequency of micturition,Finding of frequency of urination,Finding of frequency of urination (finding),Frequency of micturition,Frequency of micturition,Frequency of urination,Increased frequency of micturition,Increased frequency of urination,Increased frequency of urination (finding),Observation of frequency of urination,Passes water too often,Periodicity of micturition,Pollakisuria,Pollakiuria,Urinary frequency",Increased frequency of urination
+59,C0337671,"Cessation of smoking,Ex-smoker,Ex-smoker (finding),Past tobacco smoker",Ex-smoker
+60,C0262365,"Abnormal mammogram,Mammography abnormal,Mammography abnormal (finding)",Mammography abnormal
+61,C0041747,"Accidental pregnancy,Unplanned pregnancy,Unplanned pregnancy (finding)",Unplanned pregnancy
+62,C0033687,"Abnormal presence of protein in urine,Proteinuria,Proteinuria,Proteinuria (finding),Proteinuria, unspecified",Proteinuria
+63,C0027497,"Nausea,Nausea,Nausea (finding),Nausea NOS,Nauseated,Nauseous,Observation of nausea",Nausea
+64,C1313967,"Needs influenza immunisation,Needs influenza immunization,Needs influenza immunization (finding)",Needs influenza immunization
+65,C0002622,"Amnesia,Amnesia (finding),Amnesia NOS,Dysmnesia,LOM - Loss of memory,Loss of memory,Memory gone,Memory loss,Memory loss - amnesia,Memory loss NOS",Amnesia
+66,C0013456,"Ear ache,Ear pain,Earache,Earache symptom,Earache symptom (finding),Earache symptoms,Otalgia,Otalgia,Otalgia (finding),Otalgia, unspecified ear,Pain in ear",Otalgia
+67,C0040822,"Has a tremor,Shakes,Shaking,Shaking all over,The shakes,Tremor,Tremor (finding),Tremor, unspecified",Tremor
+68,C0428047,"Rubella non-immune,Rubella non-immune (finding)",Rubella non-immune
+69,C0013428,"Dysuria,Dysuria,Dysuria (finding),Pain associated with micturition,Pain emptying bladder,Pain on micturition,Pain on voiding,Pain passing urine,Pain passing water,Painful micturition,Painful micturition, unspecified,Painful urination NOS,Passing water hurts,Urination painful",Dysuria
+70,C0423670,"Arthralgia of shoulder,Arthralgia of the shoulder region,Shoulder joint pain,Shoulder joint pain (finding)",Shoulder joint pain
+71,C2350019,"Solitary nodule of lung,Solitary nodule of lung (finding),Solitary pulmonary nodule,Solitary pulmonary nodule",Solitary nodule of lung
+72,C0232989,"Normal pregnancy,Normal pregnancy (finding)",Normal pregnancy
+73,C0002453,"Absence of menstruation,Amenorrhea,Amenorrhea (finding),Amenorrhea, unspecified,Amenorrhoea",Amenorrhea
+74,C0239377,"Pain in upper limb,Pain in upper limb (finding),Pain in upper limb NOS,Pain of upper limb",Pain in upper limb
+75,C0014591,"Bleeding from nose,Bleeding from nose (finding),Epistaxis,Epistaxis,Finding of bleeding of nose,Hemorrhage from nose,Nasal haemorrhage,Nasal hemorrhage,Nosebleed,Nosebleed,Observation of bleeding of nose",Bleeding from nose
+76,C0231528,"Aching muscles,Muscle ache,Muscle pain,Muscle pain (finding),Myalgia,Myalgia,Myodynia,Myoneuralgia,Myosalgia",Muscle pain
+77,C0338656,"Cognitive decline,Cognitive deficit,Cognitive disturbance,Cognitive dysfunction,Cognitive impairment,Impaired cognition,Impaired cognition (finding)",Impaired cognition
+78,C0030193,"Dolor,Pain,Pain (finding),Pain NOS,Pain observations,Pain, unspecified,Painful,Part hurts",Pain
+79,C0227791,"Vaginal discharge,Vaginal discharge (finding)",Vaginal discharge
+80,C0497406,"Overweight,Overweight,Overweight (finding),Patient overweight",Overweight
+81,C0032776,"Bleeding after menopause,PMB - Postmenopausal bleeding,Postmenopausal bleeding,Postmenopausal bleeding,Postmenopausal bleeding (finding)",Postmenopausal bleeding
+82,C0037384,"Finding of snoring,Observation of snoring,Snores,Snoring,Snoring,Snoring (finding),Snoring symptom,Snoring symptoms,Snoring symptoms (finding)",Snoring
+83,C0235710,"Chest discomfort,Chest discomfort (finding)",Chest discomfort
+84,C0221785,"Arthralgia of wrist,Pain in wrist,Pain in wrist,Pain in wrist (finding),Wrist joint pain,Wrist joint pain (finding),Wrist pain",Pain in wrist
+85,C0221785,"Arthralgia of wrist,Pain in wrist,Pain in wrist,Pain in wrist (finding),Wrist joint pain,Wrist joint pain (finding),Wrist pain",Wrist joint pain
+86,C0085598,"False labor,False labor,False labor (finding),False labor, unspecified,False labour,Spurious labor,Spurious labour",False labor
+87,C2979982,"Bleeding from vagina,Bleeding from vagina (finding),Observations of vaginal bleeding,Vaginal bleeding",Bleeding from vagina
+88,C0476367,"Shadow of lung,Shadow of lung (finding),Shadow, lung",Shadow of lung
+89,C0578883,"Problem situation relating to social and personal history,Problem situation relating to social and personal history (finding)",Problem situation relating to social and personal history
+90,C0580703,"Postoperative visit,Postoperative visit (finding)",Postoperative visit
+91,C0376405,"Does not comply with treatment,Nonadherence with treatment,Noncompliance with treatment,Noncompliance with treatment (finding)",Noncompliance with treatment
+92,C0085639,"Fall,Fall (event),Falling,Falls,Falls (finding),Unspecified fall",Falls
+93,C0342302,"Brittle diabetes,Brittle diabetes mellitus,Brittle diabetes mellitus (finding),Labile diabetes,Unstable diabetes mellitus",Brittle diabetes mellitus
+94,C0021775,"Claudication,IC - Intermittent claudication,Intermittent claudication,Intermittent claudication,Intermittent claudication (finding),Myasthenia angiosclerotica",Intermittent claudication
+95,C0740418,"Chronic back pain,Chronic back pain (finding)",Chronic back pain
+96,C0150055,"Chronic pain,Chronic pain (finding)",Chronic pain
+97,C0038437,"Female stress incontinence,Female urinary stress incontinence,Female urinary stress incontinence (finding)",Female urinary stress incontinence
+98,C0239833,"Hand pain,Hand pain (finding),Painful hand",Hand pain
+99,C0020580,"Hypesthesia,Hypesthesia (finding),Hypoaesthesia,Hypoaesthesia (reduced sensation),Hypoesthesia,Hypoesthesia (reduced sensation),Impaired sensation,Limited sensation,Reduced sensation,Reduced sensation of skin,Reduced sensation of skin (finding),Tactile hypaesthesia,Tactile hypesthesia,Tactile hypesthesia (finding)",Hypesthesia
+100,C0231807,"Breathlessness on exertion,Dyspnea on effort,Dyspnea on exertion,Dyspnea on exertion (finding),Dyspnoea on effort,Dyspnoea on exertion,Exertional dyspnea,Exertional dyspnoea,SOBOE - Shortness of breath on exertion,Short of breath on exertion",Dyspnea on exertion
+101,C0030554,"Paraesthesia,Paraesthesia (numbness/tingling),Paresthesia,Paresthesia (finding),Paresthesia (numbness/tingling)",Paresthesia
+102,C0587223,"Abdominal pain in pregnancy,Abdominal pain in pregnancy (finding)",Abdominal pain in pregnancy
+103,C0018932,"BRBPR - Bright red blood per rectum,Blood in faeces,Blood in feces,Blood in stool,Bloody stool,Bright red blood in stool,Bright red blood per rectum,Faeces: blood,Feces: blood,Fresh blood passed per rectum,Haematochezia,Hematochezia,Hematochezia (finding),Passage of bloody stools",Hematochezia
+104,C0278061,"Abnormal mental state,Altered mental status,Altered mental status (finding)",Altered mental status
+105,C0242786,"HRP - High risk pregnancy,High risk pregnancy,High risk pregnancy (finding)",High risk pregnancy
+106,C0438237,"Liver enzymes abnormal,Liver enzymes abnormal (finding)",Liver enzymes abnormal
+107,C0027424,"Congested nose,Nasal congestion,Nasal congestion,Nasal congestion (finding),Stuffed-up nose",Nasal congestion
+108,C0016199,"Flank pain,Flank pain (finding)",Flank pain
+109,C0019079,"Blood streaked sputum,Blood streaked sputum (finding),Coughing up blood,Haemoptysis,Hemoptysis,Hemoptysis,Hemoptysis (finding)",Hemoptysis
+110,C0235299,"Right upper quadrant pain,Right upper quadrant pain,Right upper quadrant pain (finding)",Right upper quadrant pain
+111,C0344365,"Incomplete bladder emptying,Incomplete emptying of bladder,Incomplete emptying of bladder (finding)",Incomplete emptying of bladder
+112,C0016034,"Diffuse cystic mastopathy,Diffuse cystic mastopathy,Fibrocystic breast changes,Fibrocystic breast changes (finding),Fibrocystic change of breast,Fibrocystic disease of breast,Fibrocystic disease of breast,Fibrocystic mastopathy,Gross cystic disease of breast,Schimmelbusch's disease,fibrocystic mastopathy",Fibrocystic breast changes
+113,C0481523,"Surgical follow-up,Surgical follow-up (finding)",Surgical follow-up
+114,C0424000,"Feeling suicidal,Feeling suicidal (finding),Suicidal ideations,Suicidal thoughts,Suicidal thoughts (finding)",Feeling suicidal
+115,C0424000,"Feeling suicidal,Feeling suicidal (finding),Suicidal ideations,Suicidal thoughts,Suicidal thoughts (finding)",Suicidal thoughts
+116,C0150045,"Lack of bladder control if desire resisted,Lack of bladder control if desire urgent,Must urinate at once with urge,Urge incontinence,Urge incontinence of urine,Urge incontinence of urine (finding),Urge urinary incontinence",Urge incontinence of urine
+117,C0575081,"Abnormal gait,Abnormal gait (finding),Gait abnormality,Gait difficulty,Gait problem",Abnormal gait
+118,C0043094,"Weight gain,Weight gain (finding),Weight increased,Weight increased (finding),Weight increasing,Weight increasing (finding)",Weight increased
+119,C0582114,"DNAR - Do not attempt resuscitation,DNR,Do not resuscitate,Do not resuscitate status,Do not resuscitate status (Z66),Not for resuscitation,Not for resuscitation (finding)",Not for resuscitation
+120,C0428977,"Bradycardia,Bradycardia (finding),Bradycardia, unspecified,Decreased heart rate,Heart rate slow,Slow heart beat,Slow heart beat",Bradycardia
+121,C0587770,"Follow-up orthopaedic assessment,Follow-up orthopedic assessment,Follow-up orthopedic assessment (finding)",Follow-up orthopedic assessment
+122,C0037763,"Muscle spasm,Spasm,Spasm (finding)",Spasm
+123,C0024902,"Breast pain,Breast painful,Mastalgia,Mastodynia,Mastodynia,Pain in the breast,Pain of breast,Pain of breast (finding),Painful breasts",Pain of breast
+124,C0039231,"Heart rate fast,Increased heart rate,Pulse fast,Pulse fast (finding),Rapid heart beat,Rapid heart beat,Rapid pulse,Tachycardia,Tachycardia (finding),Tachycardia - pulse,Tachycardia, unspecified",Tachycardia
+125,C0566690,"Vaginal delivery,Vaginal delivery (finding)",Vaginal delivery
+126,C0936227,"Abnormal decrease in weight,Abnormal weight loss,Abnormal weight loss,Abnormal weight loss (finding)",Abnormal weight loss
+127,C0522055,"Abnormal ECG,Abnormal EKG finding,Electrocardiogram abnormal,Electrocardiogram abnormal (finding)",Electrocardiogram abnormal
+128,C0233514,"Abnormal behavior,Abnormal behavior (finding),Abnormal behaviour,Abnormal conduct,Behavioral problem,Behavioural problem,Disturbance of conation,Problem behavior,Problem behavior (finding),Problem behaviour,Strange behavior,Strange behaviour",Problem behavior
+129,C1269832,"Post PTCA,Post percutaneous transluminal coronary angioplasty,Post percutaneous transluminal coronary angioplasty (finding)",Post percutaneous transluminal coronary angioplasty
+130,C0086565,"Abnormal hepatic function,Abnormal liver function,Abnormal liver function (finding)",Abnormal liver function
+131,C0587046,"Artificial lens in situ,Artificial lens present,Artificial lens present (finding)",Artificial lens present
+132,C0019699,"HIV positive,HIV positive NOS,HTLV-3 antibody positive,Human immunodeficiency virus (HIV) positive,Human immunodeficiency virus positive,Human immunodeficiency virus positive (finding)",Human immunodeficiency virus positive
+133,C1278395,"Borderline blood pressure,Borderline blood pressure (finding)",Borderline blood pressure
+134,C0005697,"Neurogenic bladder,Neurogenic bladder (finding),Neurogenic dysfunction of the urinary bladder,Neurogenic dysfunction of the urinary bladder (finding),Neuropathic bladder",Neurogenic bladder
+135,C0043144,"Wheeze,Wheezing,Wheezing,Wheezing (finding),Wheezy",Wheezing
+136,C0558818,"Elevated levels of transaminase & lactic acid dehydrogenase,Elevated levels of transaminase & lactic acid dehydrogenase (finding),Elevated levels of transaminase and lactic acid dehydrogenase",Elevated levels of transaminase & lactic acid dehydrogenase
+137,C2317549,"Methicillin resistant staphylococcus aureus carrier,Methicillin resistant staphylococcus aureus carrier (finding)",Methicillin resistant staphylococcus aureus carrier
+138,C0019825,"Croaky voice,Hoarse,Hoarse (finding),Hoarseness,Hoarseness,Hoarseness - throat symptom,Hoarseness symptom,Husky voice,Voice hoarseness",Hoarse
+139,C0521839,"Flu-like illness,Influenza like illness,Influenza-like illness,Influenza-like illness (finding)",Influenza-like illness
+140,C0694551,"Right lower quadrant pain,Right lower quadrant pain,Right lower quadrant pain (finding)",Right lower quadrant pain
+141,C0021359,"Cannot achieve a pregnancy,Difficulty conceiving,Infertile,Infertile (finding),Sterility,Sterility (finding)",Infertile
+142,C0151908,"Anhydrotic skin,Dry skin,Dry skin (finding)",Dry skin
+143,C3539909,"Allergic disposition,Allergic disposition (disorder),Allergy",Allergic disposition
+144,C0587823,"Active advance directive (copy within chart),Active advance directive (copy within chart) (finding),Active advanced healthcare directive (copy within chart),Advance directive signed (copy in notes)",Active advance directive (copy within chart)
+145,C0038435,"State of stress,Stress,Stress,Stress (finding),Stress (qualifier value),Stress - value",Stress
+146,C0700589,"Birth control,Contraception,Contraception (finding)",Contraception
+147,C0008035,"Chest wall pain,Chest wall pain (finding)",Chest wall pain
+148,C0151827,"Eye pain,Ocular pain,Ocular pain,Ocular pain, unspecified eye,Pain in eye,Pain in eye (finding)",Pain in eye
+149,C0021293,"Post-term infant,Postmature baby,Postmature fetus,Postmature foetus,Postmature infancy,Postmature infancy (finding),Postmaturity of baby,Postterm infancy",Postmature infancy
+150,C0028734,"Nocturia,Nocturia,Nocturia (finding)",Nocturia
+151,C0028734,"Nocturia,Nocturia,Nocturia (finding)",Finding of nocturia
+152,C0030196,"Limb pain,Pain in limb,Pain in limb (finding),Pain in limb NOS",Pain in limb
+153,C0270327,"Bed wetting,Bedwetting,Nocturnal enuresis,Nocturnal enuresis,Nocturnal enuresis (finding),Nocturnal incontinence of urine,Wets bed",Nocturnal enuresis
+154,C1562890,"AMA - advanced maternal age,Advanced maternal age gravida,Advanced maternal age gravida (finding),Advanced maternal age patient",Advanced maternal age gravida
+155,C0270124,"Fetal distress, in liveborn infant,Fetal distress, in liveborn infant (finding),Fetal intrauterine distress, not clear if noted before OR after onset of labor in liveborn infant,Fetal intrauterine distress, not clear if noted before OR after onset of labour in liveborn infant,Foetal distress, in liveborn infant,Foetal intrauterine distress, not clear if noted before OR after onset of labour in liveborn infant","Fetal distress, in liveborn infant"
+156,C1960888,"Pain in female pelvis,Pain in female pelvis (finding)",Pain in female pelvis
+157,C0009952,"Febrile convulsion,Febrile convulsion (finding),Febrile convulsion NOS,Febrile convulsions,Febrile fit,Febrile seizure,Febrile seizure (from fever),Febrile seizure NOS,Fever seizure,Pyrexial convulsion",Febrile convulsion
+158,C0018834,"Burning reflux,Heartburn,Heartburn,Heartburn (finding),Heartburn symptom,Pyrosis",Heartburn
+159,C0563273,"General health deterioration,General health deterioration (finding)",General health deterioration
+160,C0042025,"GSI - Genuine stress incontinence,Genuine stress incontinence,Genuine stress incontinence (finding),Incontinence when straining,SI - Stress incontinence,Stress bladder incontinence,Stress urinary incontinence,Urinary stress incontinence",Genuine stress incontinence
+161,C0574785,"LUTS - Lower urinary tract symptoms,Lower urinary tract symptoms,Lower urinary tract symptoms (finding)",Lower urinary tract symptoms
+162,C0041657,"Loss of consciousness,Loss of consciousness (finding),Mental status, unconsciousness,Unconscious,Unconscious (finding),Unconsciousness,Unconsciousness NOS",Unconscious
+163,C0347944,"Mass of pelvic structure,Mass of pelvic structure (finding),Pelvic lump,Pelvic mass",Mass of pelvic structure
+164,C0238656,"Ankle joint pain,Ankle joint pain (finding),Ankle pain,Ankle pain (finding),Arthralgia of ankle",Ankle pain
+165,C0238656,"Ankle joint pain,Ankle joint pain (finding),Ankle pain,Ankle pain (finding),Arthralgia of ankle",Ankle joint pain
+166,C0022346,"Icteric,Icterus,Jaundice,Jaundice (finding),Jaundiced,Unspecified jaundice",Jaundice
+167,C0458233,"Arthralgia of tibiofibular joint,Tibiofibular joint pain,Tibiofibular joint pain (finding)",Tibiofibular joint pain
+168,C0600142,"Climacteric flushing,Climacteric flushing (disorder),Hot flashes,Hot flush,Hot flushes,Menopausal flushing,Menopausal flushing (finding),Menopausal hot flashes,Menopausal hot flushes",Menopausal flushing
+169,C0238551,"Left lower quadrant pain,Left lower quadrant pain,Left lower quadrant pain (finding)",Left lower quadrant pain
+170,C0574002,"Edema of foot,Edema of foot (finding),Foot edema,Foot oedema,Foot swelling,Foot swelling (finding),Oedema of foot,Pedal edema,Pedal oedema,Swollen foot",Edema of foot
+171,C0239266,"Elbow pain,Pain in elbow,Pain in elbow,Pain in elbow (finding),Pain in unspecified elbow",Pain in elbow
+172,C0010201,"Chronic cough,Chronic cough (finding)",Chronic cough
+173,C0006157,"Breech presentation,Breech presentation (finding),Malposition of fetus in breech presentation,Positions of breech presentation,Positions of breech presentation (observable entity)",Breech presentation
+174,C0022876,"Premature labor,Premature labor (finding),Premature labour,Premature onset of labor,Premature onset of labour,Preterm labor,Preterm labor,Preterm labour",Premature labor
+175,C0266813,"Faecal occult blood positive,Fecal occult blood positive,Occult blood in feces,Occult blood in stool,Occult blood in stools,Occult blood in stools,Occult blood in stools (finding)",Occult blood in stools
+176,C0266813,"Faecal occult blood positive,Fecal occult blood positive,Occult blood in feces,Occult blood in stool,Occult blood in stools,Occult blood in stools,Occult blood in stools (finding)",Fecal occult blood: positive
+177,C0034735,"Paroxysmal digital cyanosis,Raynaud phenomenon,Raynaud's phenomenon,Raynaud's phenomenon (finding),Raynaud's syndrome",Raynaud's phenomenon
+178,C0239340,"Edema of lower extremity,Edema of lower extremity (finding),Edema of lower limb,Oedema of lower extremity,Oedema of lower limb",Edema of lower extremity
+179,C0476280,"Musculoskeletal chest pain,Musculoskeletal chest pain (finding)",Musculoskeletal chest pain
+180,C0426093,"OA - Occipitoanterior position,Occipitoanterior position,Occipitoanterior position (finding)",Occipitoanterior position
+181,C0232943,"Intermenstrual heavy bleeding,Intermenstrual heavy bleeding (finding),Menometrorrhagia,Menometrorrhagia,Menometrorrhagia (finding),Metromenorrhagia",Menometrorrhagia
+182,C0009250,"Coin lesion lung,Coin lesion of lung,Coin lesion of lung (finding)",Coin lesion of lung
+183,C0745966,"Edema of lower leg,Edema of lower leg (finding),Oedema of lower leg",Edema of lower leg
+184,C0337667,"Cigarette smoker,Cigarette smoker (finding)",Cigarette smoker
+185,C0085606,"Must hurry to pass urine,Precipitancy of micturition,Precipitancy of urine,Urgency - urination,Urgency of micturition,Urgency of urination,Urgency to micturate,Urgency to pass urine,Urgent desire to urinate,Urgent desire to urinate (finding),Urging to urinate,Urinary precipitancy",Urgent desire to urinate
+186,C0151786,"Decreased muscle strength,Muscle strength reduced,Muscle weakness,Muscle weakness (finding)",Muscle weakness
+187,C0426196,"Vaginal show,Vaginal show (finding)",Vaginal show
+188,C0241416,"Pain in toe,Pain in toe (finding),Toe pain",Pain in toe
+189,C0031538,"Phimosis,Phimosis,Phimosis (disorder),Tight foreskin,Tight foreskin (finding),Tight prepuce",Tight foreskin
+190,C3266180,"Cramp in lower leg,Cramp in lower leg (finding)",Cramp in lower leg
+191,C0556297,"Alcohol user,Current drinker,Current drinker of alcohol,Current drinker of alcohol (finding),Drinks alcohol",Current drinker of alcohol
+192,C0973461,"Dysphasia,Dysphasia,Dysphasia (finding)",Dysphasia
+193,C0232491,"Chronic abdominal pain,Chronic abdominal pain (finding)",Chronic abdominal pain
+194,C0149736,"Lump on neck,Mass of neck,Mass of neck (finding)",Mass of neck
+195,C0028643,"Deadness - numbness,Loss of sensation,Numbness,Numbness (finding)",Numbness
+196,C0869256,"Mixed incontinence,Mixed incontinence,Mixed incontinence (finding),Mixed urinary incontinence,Urge and stress incontinence",Mixed incontinence
+197,C4317109,"Epileptic attack,Epileptic convulsion,Epileptic fit,Epileptic seizure,Epileptic seizure (finding)",Epileptic seizure
+198,C0015732,"Bowel incontinence,Bowels: incontinent,Fecal incontinence,Fecal incontinence NOS,Incontinence of faeces,Incontinence of feces,Incontinence of feces (finding),Incontinent of faeces,Incontinent of feces,Involuntary stool",Incontinence of feces
+199,C0149726,"Lung mass,Lung mass (finding)",Lung mass
+200,C0748164,"Multiple nodules of lung,Multiple nodules of lung (finding),Multiple pulmonary nodules",Multiple nodules of lung
+201,C0239589,"Finger pain,Pain in finger,Pain in finger (finding)",Pain in finger
+202,C0424672,"BMI 25-29 - overweight,Body mass index 25-29 - overweight,Body mass index 25-29 - overweight (finding)",Body mass index 25-29 - overweight
+203,C0683369,"Clouded consciousness,Clouded consciousness (finding),Confused,Confusion,Dazed,Dazed state,Dullness of senses,Muddled",Clouded consciousness
+204,C0556390,"Multi-drug misuser,Poly-drug abuser,Poly-drug misuser,Poly-drug misuser (finding)",Poly-drug misuser
+205,C0037317,"Disturbance in sleep behavior,Disturbance in sleep behavior (finding),Disturbance in sleep behaviour",Disturbance in sleep behavior
+206,C3665386,"Abnormal vision,Abnormal vision (finding),Partial sight,Problem seeing,Problem sight",Abnormal vision
+207,C0423682,"Mechanical low back pain,Mechanical low back pain (finding)",Mechanical low back pain
+208,C0086769,"Panic attack,Panic attack,Panic attack (finding)",Panic attack
+209,C0162296,"Arthralgia of multiple joints,Multiple joint pain,Multiple joint pain (finding),Polyarthralgia",Multiple joint pain
+210,C0018965,"Blood in urine,Blood in urine (finding),Blood in urine - haematuria,Blood in urine - hematuria,Haematuria,Haematuria syndrome,Hematuria,Hematuria,Hematuria syndrome,Hematuria syndrome (disorder),Hematuria, unspecified",Blood in urine
+211,C0423684,"Thoracic back pain,Thoracic back pain (finding)",Thoracic back pain
+212,C1971624,"Anorexia,Anorexic,Loss of appetite,Loss of appetite (finding),No appetite,Off food",Loss of appetite
+213,C0337681,"Narcotic drug user,Narcotic drug user (finding)",Narcotic drug user
+214,C0030824,"Allergy to penicillin,Allergy to penicillin (disorder),Penicillin allergy",Allergy to penicillin
+215,C0233315,"Premature birth of newborn,Premature birth of newborn (finding)",Premature birth of newborn
+216,C0151526,"Premature childbirth,Premature delivery,Premature delivery (finding),Premature pregnancy delivered,Premature pregnancy delivered (finding)",Premature delivery
+217,C0006266,"Bronchial spasm,Bronchospasm,Bronchospasm (finding)",Bronchospasm
+218,C0282504,"Environmental allergy,Environmental allergy (disorder)",Environmental allergy
+219,C0236000,"Jaw pain,Jaw pain,Jaw pain (finding),Pain of jaw",Jaw pain
+220,C0004134,"Ataxia,Ataxia (finding),Ataxia (loss of muscle coordination),Ataxia, unspecified,Dyssynergia",Ataxia
+221,C0520966,"Abnormal coordination,Coordination problem,Coordination problem (finding),Incoordination,Incoordination (finding),Lack of coordination,Unspecified lack of coordination",Coordination problem
+222,C0262613,"Kidney mass,Renal mass,Renal mass (finding)",Renal mass
+223,C0026858,"Musculoskeletal pain,Musculoskeletal pain (finding),Rheumatic pain",Musculoskeletal pain
+224,C0860096,"First pregnancy,Previous pregnancy 1,Previous pregnancy 1 (finding),Primigravida,Primigravida (finding),Primip",Primigravida
+225,C0232970,"Postmenopausal,Postmenopausal state,Postmenopausal state (finding)",Postmenopausal state
+226,C0341863,"Epimenorrhagia,Excessive and frequent menstruation,Excessive and frequent menstruation (finding),Frequent heavy periods,Hyperpolymenorrhea,Hyperpolymenorrhoea,Polymenorrhagia",Excessive and frequent menstruation
+227,C0237154,"Homeless,Homeless (finding),Housing lack,Housing lack (finding),Living on the street",Housing lack
+228,C0237154,"Homeless,Homeless (finding),Housing lack,Housing lack (finding),Living on the street",Homeless
+229,C0278008,"Altered bowel function,Altered bowel function (finding),Altered bowel habit,Altered bowel habits,Change in bowel habit,Change in bowel habit,Change in bowel pattern",Altered bowel function
+230,C1291077,"Abdomen feels bloated,Abdominal bloating,Abdominal bloating (finding),Bloat,Bloated abdomen,Bloating,Bloating,Bloating symptom,Bloating symptom (finding),Meteorism",Abdominal bloating
+231,C1268740,"At risk for falling,At risk for falls,At risk for falls (finding),At risk of falls,Fall risk",At risk for falls
+232,C0159023,"Feeding difficulties in newborn,Feeding problem of newborn, unspecified,Feeding problems in newborn,Feeding problems in newborn (finding),Feeding problems of newborn",Feeding problems in newborn
+233,C0039591,"Orchialgia,Orchidalgia,Orchidodynia,Pain in testicle,Pain in testicle (finding),Pain in testis,Pain of testes,Testicular pain",Pain in testicle
+234,C0580702,"Transplant follow-up,Transplant follow-up (finding)",Transplant follow-up
+235,C0013394,"Dyspareunia,Female coitalgia,Pain in female genitalia on intercourse,Pain in female genitalia on intercourse (finding)",Pain in female genitalia on intercourse
+236,C0580546,"Abnormal glucose,Abnormal glucose NOS,Blood glucose abnormal,Blood glucose abnormal (finding)",Blood glucose abnormal
+237,C2711680,"Serum cholesterol borderline high,Serum cholesterol borderline high (finding)",Serum cholesterol borderline high
+238,C0037287,"Cutaneous nodule,Nodule of skin,Skin nodule,Skin nodule (finding)",Skin nodule
+239,C0026821,"Cramp,Cramp (finding),Cramp in muscle,Muscle cramp,Muscle cramps",Cramp
+240,C0262505,"Hepatitis B carrier,Hepatitis B carrier (finding)",Hepatitis B carrier
+241,C0395016,"Speech problem,Speech problem (finding)",Speech problem
+242,C1275854,"Regional lymph node involvement present,Regional lymph node metastasis present,Regional lymph node metastasis present (finding)",Regional lymph node metastasis present
+243,C0232466,"Feeding difficulties,Feeding problem,Feeding problem (finding)",Feeding problem
+244,C0026838,"Muscle spasm - tone,Muscle spasticity,Muscular spasticity,Spasticity,Spasticity,Spasticity (finding),Spasticity (qualifier value)",Spasticity
+245,C2732402,"Type 1 diabetes mellitus uncontrolled,Type I diabetes mellitus poorly controlled,Type I diabetes mellitus uncontrolled,Type I diabetes mellitus uncontrolled (finding)",Type I diabetes mellitus uncontrolled
+246,C0751410,"Muscle weakness of lower extremity,Paresis of lower extremity,Paresis of lower extremity (finding)",Paresis of lower extremity
+247,C0425168,"Relational problem,Relationship problems,Relationship problems (finding)",Relationship problems
+248,C3714625,"Neuropathic pain,Neuropathic pain (finding)",Neuropathic pain
+249,C0235632,"Loin pain,Loin pain,Loin pain (finding)",Loin pain
+250,C0577559,"Localised mass,Localized mass,Lump,Lump,Mass,Mass,Mass (morphologic abnormality),Mass of body structure,Mass of body structure (finding),Observation of a mass",Mass of body structure
+251,C0152169,"Renal colic,Renal colic (finding),Unspecified renal colic,Ureteric colic,Ureteric colic (finding)",Renal colic
+252,C0152169,"Renal colic,Renal colic (finding),Unspecified renal colic,Ureteric colic,Ureteric colic (finding)",Ureteric colic
+253,C0006767,"Bony callus,Bony callus,Bony callus (morphologic abnormality),Callus of bone,Callus of bone (finding)",Callus of bone
+254,C0013182,"Allergic drug reaction,Allergic reaction caused by drug,Allergic reaction caused by drug (disorder),Allergic reaction to drug,Allergic reaction to medication,Allergy to drug,Drug allergy,Drug allergy (disorder),Drug hypersensitivity NOS,Medication allergy,Medicine allergy",Allergy to drug
+255,C0344221,"Coil contraception,Contraceptive IUD in situ,IUD - Intrauterine contraceptive device in situ,IUD contraception,Intrauterine contraceptive device in situ,Intrauterine contraceptive device in situ (finding),Intrauterine device (IUD) contraception,Intrauterine device contraception,Intrauterine device contraception (finding)",Intrauterine device contraception
+256,C0232495,"Lower abdominal pain,Lower abdominal pain (finding),Lower abdominal pain, unspecified",Lower abdominal pain
+257,C3714744,"Psychosexual dysfunction,Psychosexual dysfunction (finding)",Psychosexual dysfunction
+258,C0220870,"Dizziness - light-headed,Feels light headed,Light-headedness,Light-headedness,Lightheaded,Lightheadedness,Lightheadedness (finding)",Lightheadedness
+259,C0155533,"Subjective tinnitus,Subjective tinnitus (finding),Tinnitus aurium",Subjective tinnitus
+260,C0239783,"Groin pain,Inguinal pain,Inguinal pain (finding)",Inguinal pain
+261,C0423663,"Arthralgia of the pelvic region and thigh,Arthralgia of the pelvic region and thigh (finding)",Arthralgia of the pelvic region and thigh
+262,C0029151,"Inhibition of ovulation,OC - Oral contraceptive,Oral contraception,Oral contraception (finding),Oral contraceptive,Pill - oral contraception",Oral contraception
+263,C0042740,"Nonspecific syndrome suggestive of viral illness,Nonspecific syndrome suggestive of viral illness (finding),Viral syndrome",Nonspecific syndrome suggestive of viral illness
+264,C0034886,"Pain in rectum,Proctalgia,Rectal pain,Rectal pain (finding),Rectalgia",Rectal pain
+265,C0041674,"Out of work,U/E - Unemployed,UE - Unemployed,Unemployed,Unemployed (finding),Without employment",Unemployed
+266,C4039208,"Digestive system reflux,Digestive system reflux (finding)",Digestive system reflux
+267,C0583542,"Seen by paediatrician,Seen by pediatrician,Seen by pediatrician (finding)",Seen by pediatrician
+268,C0344304,"General abdominal pain-symptom,Generalised abdominal pain,Generalized abdominal pain,Generalized abdominal pain,Generalized abdominal pain (finding)",Generalized abdominal pain
+269,C4280951,"Swelling of bilateral lower limbs,Swelling of bilateral lower limbs (finding)",Swelling of bilateral lower limbs
+270,C0426732,"Enlarged prostate,Enlarged prostate NOS,Large prostate,Large prostate (finding),Prostatomegaly,enlarged prostate",Large prostate
+271,C0270139,"Fetal intrauterine distress first noted during labor AND/OR delivery in liveborn infant,Fetal intrauterine distress first noted during labor AND/OR delivery in liveborn infant (finding),Fetal intrauterine distress first noted during labour AND/OR delivery in liveborn infant,Foetal intrauterine distress first noted during labour AND/OR delivery in liveborn infant",Fetal intrauterine distress first noted during labor AND/OR delivery in liveborn infant
+272,C0436485,"Radiology result abnormal,Radiology result abnormal (finding)",Radiology result abnormal
+273,C0730345,"Microalbuminuria,Microalbuminuria (finding),Moderately increased albuminuria",Microalbuminuria
+274,C0556278,"SEN - Special educational needs,Special educational needs,Special educational needs (finding)",Special educational needs
+275,C0495786,"Abnormal findings on diagnostic imaging of lung,Abnormal findings on diagnostic imaging of lung,Abnormal findings on diagnostic imaging of lung (finding)",Abnormal findings on diagnostic imaging of lung
+276,C0008033,"Pleural pain,Pleuralgia,Pleuritic pain,Pleuritic pain (finding),Pleurodynia,Pleurodynia,Pleurodynia NOS",Pleuritic pain
+277,C0149973,"Intrauterine pregnancy,Intrauterine pregnancy (finding)",Intrauterine pregnancy
+278,C0018524,"Hallucinations,Hallucinations (finding),Hallucinations, unspecified",Hallucinations
+279,C0032617,"Increased urine output,Increased urine output (finding),Passes too much urine,Polyuria,Polyuria,Polyuria (finding),Polyuria NOS,Polyuric state,Polyuric state (disorder),Urine output high",Polyuria
+280,C0159069,"Abnormal glucose tolerance test,Abnormal glucose tolerance test (finding),Impaired glucose tolerance test,Impaired glucose tolerance test (finding)",Abnormal glucose tolerance test
+281,C0574946,"Hand joint active,Hand joint inflamed,Hand joint inflamed (finding)",Hand joint inflamed
+282,C0000734,"Abdominal lump,Abdominal mass,Abdominal mass (finding)",Abdominal mass
+283,C0231246,"Failure to gain weight,Failure to gain weight,Failure to gain weight (finding),Not gaining weight,Not putting on weight,Poor weight gain,Unable to gain weight",Failure to gain weight
+284,C0024528,"Malaise and fatigue,Malaise and fatigue,Malaise and fatigue (finding)",Malaise and fatigue
+285,C0004610,"Bacteraemia,Bacteremia,Bacteremia,Bacteremia (finding)",Bacteremia
+286,C0025587,"Metatarsalgia,Metatarsalgia,Metatarsalgia (finding),Metatarsalgia, unspecified foot,Pain in ball of foot",Metatarsalgia
+287,C0419530,"Contraception using injectable contraceptive medication,Depot contraception,Depot contraception (finding),Depot contraceptive",Depot contraception
+288,C0013362,"Dysarthria,Dysarthria (finding)",Dysarthria
+289,C0311394,"Difficulty walking,Difficulty walking (finding),Impaired walking,Walking disability,Walking disability (finding)",Walking disability
+290,C0580555,"Prostate specific antigen abnormal,Prostate specific antigen abnormal (finding)",Prostate specific antigen abnormal
+291,C0015970,"F.U.O.,Fever of unknown origin,Fever of unknown origin [FUO],PUO - Pyrexia of unknown origin,Pyrexia of unknown origin,Pyrexia of unknown origin (finding)",Pyrexia of unknown origin
+292,C0016470,"Food allergy,Food allergy (disorder)",Allergy to food
+293,C0425311,"Current non-smoker,Current non-smoker (finding)",Current non-smoker
+294,C0586559,"Prostate mass,Prostate mass (finding)",Prostate mass
+295,C0011124,"Decreased libido,Decreased sexual desire,Low libido,Reduced libido,Reduced libido (finding)",Reduced libido
+296,C0149612,"Exercise ECG abnormal,Exercise ECG positive,Exercise tolerance test abnormal,Exercise tolerance test abnormal (finding),Positive exercise ECG test",Exercise tolerance test abnormal
+297,C0028949,"Infrequent menstruation,Infrequent periods,Oligomenorrhea,Oligomenorrhea (finding),Oligomenorrhea, unspecified,Oligomenorrhoea,Relative amenorrhea,Relative amenorrhoea",Oligomenorrhea
+298,C0003537,"Aphasia,Aphasia,Aphasia (finding),Aphasic disturbance,Loss of power of expression or comprehension",Aphasia
+299,C0019080,"Bleeding,Bleeding,Bleeding (finding),Blood loss,Extravasation of blood,Haemorrhage,Haemorrhage,Hemorrhage,Hemorrhage,Hemorrhage (morphologic abnormality),Hemorrhage NOS",Bleeding
+300,C0231780,"Heel pain,Heel pain (finding),Talalgia",Heel pain
+301,C0684332,"Macrocytosis,Macrocytosis, red cells,Macrocytosis, red cells (finding)","Macrocytosis, red cells"
+302,C0425293,"Never smoked,Never smoked tobacco,Never smoked tobacco (finding)",Never smoked tobacco
+303,C0151811,"Nodule of subcutaneous tissue,Subcutaneous nodule,Subcutaneous nodule (finding)",Subcutaneous nodule
+304,C0436503,"Standard chest X-ray abnormal,Standard chest X-ray abnormal (finding)",Standard chest X-ray abnormal
+305,C0578026,"Abnormal weight,Abnormal weight (finding),Body weight problem,Body weight problem (finding)",Body weight problem
+306,C0439032,"C/O - debility - malaise,Complaining of debility and malaise,Complaining of debility and malaise (finding)",Complaining of debility and malaise
+307,C3203358,"Alveolar hypoventilation,Alveolar hypoventilation (finding),Hypoventilation,Hypoventilation (finding)",Alveolar hypoventilation
+308,C0232488,"Abdominal colic,Abdominal colic (finding),Colic,Colic,Colic NOS,Colicky abdominal pain,Spasmodic abdominal pain",Abdominal colic
+309,C0746935,"Noncompliance with medication regimen,Noncompliance with medication regimen (finding),Noncompliance: medication regimen",Noncompliance with medication regimen
+310,C0423665,"Arthralgia of the hand,Hand joint pain,Hand joint pain (finding),Pain in joints of hand,Pain in joints of hand NOS",Hand joint pain
+311,C0699815,"Feeding difficulties and mismanagement,Feeding difficulties and mismanagement (finding)",Feeding difficulties and mismanagement
+312,C1879338,"Bereavement,Bereavement due to life event,Bereavement due to life event (finding),Bereavement reaction,Mourning",Bereavement due to life event
+313,C0238552,"Left upper quadrant pain,Left upper quadrant pain,Left upper quadrant pain (finding)",Left upper quadrant pain
+314,C0436539,"Computed tomography result abnormal,Computed tomography result abnormal (finding)",Computed tomography result abnormal
+315,C0574068,"Rib pain,Rib pain (finding)",Rib pain
+316,C0581118,"Ultrasound scan abnormal,Ultrasound scan abnormal (finding)",Ultrasound scan abnormal
+317,C0013144,"Drowsiness,Drowsiness,Drowsiness, function,Drowsiness, function (observable entity),Drowsy,Drowsy (finding),Mental status, drowsy,Sleepiness,Sleepiness,Sleepy,Somnolence (sleepiness)",Drowsy
+318,C0422304,"Administrative reason for encounter,Administrative reason for encounter (finding)",Administrative reason for encounter
+319,C0151824,"Biliary colic,Biliary colic (finding),Biliary colic symptom,Gallbladder pain,Gallbladder pain (finding),Hepatic colic",Biliary colic
+320,C0558368,"Vaginal irritation,Vaginal irritation (finding)",Vaginal irritation
+321,C0007280,"Carotid bruit,Carotid bruit (finding)",Carotid bruit
+322,C1455889,"Atypical squamous cells of undetermined significance on cervical Papanicolaou smear,Atypical squamous cells of undetermined significance on cervical Papanicolaou smear (finding)",Atypical squamous cells of undetermined significance on cervical Papanicolaou smear
+323,C0476206,"Dizziness - giddy,Dizziness and giddiness,Dizziness and giddiness,Dizziness and giddiness (finding)",Dizziness and giddiness
+324,C0423927,"Mild memory disturbance,Mild memory disturbance (finding)",Mild memory disturbance
+325,C0421373,"Not up to date with immunisations,Not up to date with immunizations,Not up to date with immunizations (finding)",Not up to date with immunizations
+326,C0574943,"Shoulder joint active,Shoulder joint inflamed,Shoulder joint inflamed (finding)",Shoulder joint inflamed
+327,C0429910,"Mantoux: negative,Mantoux: negative (finding),Negative PPD",Mantoux: negative
+328,C0425265,"Willing to be donor of kidney,Willing to be donor of kidney (finding)",Willing to be donor of kidney
+329,C0404831,"Multigravida,Multigravida (finding),Multip",Multigravida
+330,C0404734,"Abnormal glucose tolerance test during pregnancy - baby not yet delivered,Abnormal glucose tolerance test during pregnancy - baby not yet delivered (finding)",Abnormal glucose tolerance test during pregnancy - baby not yet delivered
+331,C0015468,"Face ache,Face ache (finding),Facial pain,Facial pain NOS,Pain in face,Pain in face (finding),Pain of face",Pain in face
+332,C1319898,"At risk of sexually transmitted infection,At risk of sexually transmitted infection (finding)",At risk of sexually transmitted infection
+333,C0221776,"Oral cavity pain,Oral pain,Painful mouth,Painful mouth (finding)",Painful mouth
+334,C0549622,"Abnormal sexual function,Abnormal sexual function (finding),Decreased sexual function,Decreased sexual function (finding),Impaired sexual function,Sexual disorder,Sexual disorder (disorder),Sexual dysfunction,Sexual dysfunction NOS,Sexual dysfunction, unspecified",Abnormal sexual function
+335,C0460098,"Unwanted fertility,Unwanted fertility (finding)",Unwanted fertility
+336,C0700613,"Anxiety state,Anxiety state,Anxiety state (finding)",Anxiety state
+337,C0027796,"Neuralgia,Neuralgia (disorder)",Neuralgia
+338,C0236075,"Menopausal symptom,Menopausal symptom (finding)",Menopausal symptom
+339,C0259768,"Burst wound,Disruption of wound NOS,Disruption of wound, unspecified,Wound dehiscence,Wound dehiscence,Wound dehiscence (finding),Wound dehiscence (morphologic abnormality),Wound opened up,Wound reopened - observation,Wound rupture",Wound dehiscence
+340,C0425512,"Sputum - symptom,Sputum - symptom (finding)",Sputum - symptom
+341,C0578757,"Good neonatal condition at birth,Good neonatal condition at birth (finding),Healthy newborn",Good neonatal condition at birth
+342,C0028081,"Night sweats,Night sweats,Night sweats (finding)",Night sweats
+343,C0877425,"Mass of pancreas,Mass of pancreas (finding)",Mass of pancreas
+344,C0232861,"Discharge from penis,Discharge from penis (finding),Penile discharge NOS",Discharge from penis
+345,C0158369,"Swelling of limb,Swelling of limb (finding)",Swelling of limb
+346,C0021167,"Incontinence,Incontinence (finding)",Incontinence
+347,C0240802,"Pregnancy test positive,Pregnancy test positive (finding)",Pregnancy test positive
+348,C0003578,"Apnea,Apnea (finding),Apnea NOS,Apneic,Apnoea,Apnoeic,Has stopped breathing,Not breathing,Stops breathing,Stops breathing (finding)",Apnea
+349,C0574950,"Hip joint active,Hip joint inflamed,Hip joint inflamed (finding)",Hip joint inflamed
+350,C0022107,"Feeling irritable,Feeling irritable (finding),Fussiness,Irritability",Feeling irritable
+351,C0581869,"Abdominal wall pain,Abdominal wall pain (finding)",Abdominal wall pain
+352,C1272587,"Stented coronary artery,Stented coronary artery (finding)",Stented coronary artery
+353,C0476346,"Faeces contents abnormal,Feces contents abnormal,Feces contents abnormal (finding),Stool contents abnormal",Feces contents abnormal
+354,C0700225,"Serum creatinine raised,Serum creatinine raised (finding)",Serum creatinine raised
+355,C0013491,"Ecchymoses,Ecchymosis,Ecchymosis,Ecchymosis (finding),Ecchymosis (morphologic abnormality)",Ecchymosis
+356,C0476241,"Delayed developmental milestone,Delayed milestone,Delayed milestone (finding)",Delayed milestone
+357,C0474481,"Failure to progress in second stage of labor,Failure to progress in second stage of labor (finding),Failure to progress in second stage of labour,No progress in second stage of labor,No progress in second stage of labour,No progress with delivery",Failure to progress in second stage of labor
+358,C0235439,"Ankle edema,Ankle edema (finding),Ankle oedema,Ankle swelling,Swollen ankle,Swollen ankle (finding),Swollen ankle - edema,Swollen ankle - oedema,Swollen ankle region",Ankle edema
+359,C4551754,"Rh negative,RhD negative,RhD negative (finding),Rhesus negative",RhD negative
+360,C0476414,"Abnormal results of thyroid function studies,Thyroid function tests abnormal,Thyroid function tests abnormal (finding)",Thyroid function tests abnormal
+361,C0233403,"Physically well but worried,Psyche disturbed with normal general body function,Worried well,Worried well (finding)",Worried well
+362,C2317516,"Carrier of vancomycin resistant enterococcus,Carrier of vancomycin resistant enterococcus (finding)",Carrier of vancomycin resistant enterococcus
+363,C0457950,"Acute back pain - lumbar,Acute low back pain,Acute low back pain (finding)",Acute low back pain
+364,C0012818,"Asymptomatic diverticulosis of sigmoid colon,Diverticulosis of sigmoid,Diverticulosis of sigmoid colon,Diverticulosis of sigmoid colon (finding)",Diverticulosis of sigmoid colon
+365,C0034359,"Pus cells in urine,Pus cells in urine (finding),Pyuria,Pyuria (finding)",Pyuria
+366,C0566991,"No flow of amniotc liquor,No liquor observed vaginally,No liquor observed vaginally (finding)",No liquor observed vaginally
+367,C0456673,"Sputum retention,Sputum retention (finding)",Sputum retention
+368,C0151480,"Anti-nuclear antibody positive,Anti-nuclear factor positive,Anti-nuclear factor positive (finding),Antinuclear factor, positive",Anti-nuclear factor positive
+369,C0240225,"Liver mass,Liver mass (finding)",Liver mass
+370,C0337616,"Educational problem,Educational problem (finding)",Educational problem
+371,C0000731,"Abdomen distended,Abdominal distention,Abdominal swelling,Swelling of abdomen,Swollen abdomen,Swollen abdomen (finding)",Swollen abdomen
+372,C0000731,"Abdomen distended,Abdominal distention,Abdominal swelling,Swelling of abdomen,Swollen abdomen,Swollen abdomen (finding)",Abdominal distension
+373,C0518456,"Impaired mobility,Impaired mobility (finding),Physical mobility impairment",Impaired mobility
+374,C0404484,"Chronic pain in female pelvis,Chronic pain in female pelvis (finding),Chronic pelvic pain of female",Chronic pain in female pelvis
+375,C1319851,"Magnetic resonance imaging of brain abnormal,Magnetic resonance imaging of brain abnormal (finding)",Magnetic resonance imaging of brain abnormal
+376,C0587246,"Loss of power in limb,Muscle weakness of limb,Muscle weakness of limb (finding)",Muscle weakness of limb
+377,C0587246,"Loss of power in limb,Muscle weakness of limb,Muscle weakness of limb (finding)",Weakness of limb
+378,C0037195,"Sinus headache,Sinus headache (finding)",Sinus headache
+379,C0520863,"Diastolic dysfunction,Diastolic dysfunction (finding)",Diastolic dysfunction
+380,C1261242,"High risk sexual behavior,High risk sexual behavior (finding),High risk sexual behaviour,Unsafe sexual practices",High risk sexual behavior
+381,C0232487,"Abdominal discomfort,Abdominal discomfort (finding)",Abdominal discomfort
+382,C0027429,"NO - Nasal obstruction,Nasal airway obstruction,Nasal obstruction,Nasal obstruction (finding),Nasal obstruction present,Nasal obstruction present,Nasal obstruction present (situation)",Nasal obstruction
+383,C0476273,"Distressed breathing,Respiratory distress,Respiratory distress (finding)",Respiratory distress
+384,C2919577,"Male urinary stress incontinence,Male urinary stress incontinence (finding)",Male urinary stress incontinence
+385,C0420968,"Rubella status not known,Rubella status not known (finding)",Rubella status not known
+386,C0158322,"Calcaneal spur,Calcaneal spur,Calcaneal spur (disorder),Calcaneal spur, unspecified foot",Calcaneal spur
+387,C0085684,"Dropfoot,FD - Foot-drop,Foot-drop,Foot-drop (finding),Footdrop",Foot-drop
+388,C0438258,"Abnormal finding of blood chemistry, unspecified,Blood chemistry abnormal,Blood chemistry abnormal (finding)",Blood chemistry abnormal
+389,C0231218,"Does not feel right,Feeling ill,Feels off-color,Feels off-colour,Feels poorly,Feels unwell,General feeling of illness,Generally unwell,Generally unwell (finding),Ill-defined experience,Malaise,Malaise (finding),Malaise NOS,Not feeling great,Not feeling well,Undifferentiated illness: Vague ill health,Undifferentiated illness: Vague ill health (finding),Vague bodily discomfort,Vague ill health",Malaise
+390,C0481457,"Single live birth,Single live birth (finding)",Single live birth
+391,C0425310,"Stopped smoking,Stopped smoking (finding)",Stopped smoking
+392,C2240374,"Eosinophil count raised,Eosinophil count raised (finding),Eosinophilia",Eosinophil count raised
+393,C2240374,"Eosinophil count raised,Eosinophil count raised (finding),Eosinophilia",Increased blood eosinophil number
+394,C1384666,"Decreased hearing,Decreased hearing (finding),Difficulty hearing,HI - Hearing impairment,HL - Hearing loss,HOH - Hard of hearing,Hard of hearing,Hearing impaired,Hearing impairment,Hearing loss,Hearing loss (disorder),Hypoacusis,Impaired hearing,Unspecified hearing loss",Decreased hearing
+395,C0233214,"Low maternal weight gain,Low maternal weight gain (finding),Low weight gain in pregnancy,Low weight gain in pregnancy, unspecified trimester",Low maternal weight gain
+396,C0555056,"Bloodstained sputum,Bloodstained sputum (finding),Expectoration of blood tinged sputum",Bloodstained sputum
+397,C0423798,"Bruises easily,Does bruise easily,Does bruise easily (situation),Easy bruising,Easy bruising (finding),Increased tendency to bruise",Easy bruising
+398,C0458990,"Recurrent falls,Recurrent falls (finding)",Recurrent falls
+399,C0036454,"Scotoma NOS,Visual field scotoma,Visual field scotoma (finding)",Visual field scotoma
+400,C0009193,"Coccyalgia,Coccydynia,Coccygalgia,Coccygodynia,Coccyodynia,Pain in the coccyx,Pain in the coccyx (finding)",Pain in the coccyx
+401,C0042018,"Urinary calculus,Urinary calculus, unspecified,Urinary stone,Urolith,Urolith (finding)",Urolith
+402,C0026751,"Multiparous,Multiparous (finding)",Multiparous
+403,C0427792,"Amniotic fluid - bloodstained,Amniotic fluid - bloodstained (finding),Bloodstained amniotic fluid,Bloodstained liquor,Bloodstained liquor (finding)",Bloodstained liquor
+404,C0575002,"Active range of joint movement reduced,Active range of joint movement reduced (finding)",Active range of joint movement reduced
+405,C0027066,"Myoclonia,Myoclonus,Myoclonus,Myoclonus (finding)",Myoclonus
+406,C0342500,"Adrenal mass,Mass of adrenal gland,Mass of adrenal gland (finding)",Mass of adrenal gland
+407,C0575624,"Shoulder joint instability,Shoulder joint unstable,Shoulder joint unstable (finding)",Shoulder joint unstable
+408,C0006318,"Bruit,Bruit (finding)",Bruit
+409,C0241353,"Lump in testis,Mass of testicle,Mass of testicle (finding),Mass of testis,Testicular lump,Testicular mass",Mass of testicle
+410,C0419373,"Livebirth,Livebirth (finding)",Livebirth
+411,C0424531,"Bad turn,Funny spell,Funny turn,Funny turn (finding)",Funny turn
+412,C0021294,"Premature infant,Premature infant (finding),Prematurity NOS",Premature infant
+413,C0237236,"Sexual assault,Sexual assault,Sexual assault (event),Sexual assault (finding)",Sexual assault
+414,C0239836,"Paraesthesia of hand,Paresthesia of hand,Paresthesia of hand (finding)",Paresthesia of hand
+415,C0677061,"Pain in thoracic spine,Pain in thoracic spine,Pain in thoracic spine (finding)",Pain in thoracic spine
+416,C0344232,"Blurring of visual image,Blurring of visual image (finding),Cloudy vision,Foggy vision,Hazy vision,Hazy vision (disorder),Mist over eyes,Misty vision",Blurring of visual image
+417,C2919187,"Periodic leg movements of sleep,Periodic leg movements of sleep (finding)",Periodic leg movements of sleep
+418,C0458232,"Arthralgia of sacroiliac joint,Sacroiliac joint pain,Sacroiliac joint pain (finding)",Sacroiliac joint pain
+419,C0035317,"Retinal haemorrhage,Retinal haemorrhages,Retinal hemorrhage,Retinal hemorrhage,Retinal hemorrhage (finding),Retinal hemorrhage, unspecified eye,Retinal hemorrhages",Retinal hemorrhage
+420,C0232255,"Functional cardiac murmur,Functional cardiac murmur,Functional flow murmur,Functional heart murmur,Functional heart murmur (finding)",Functional heart murmur
+421,C0582147,"At risk for infection,At risk for infection (finding),Potential for infection",At risk for infection
+422,C0581896,"Child relationship problem,Child relationship problem (finding)",Child relationship problem
+423,C0474298,"Up-to-date with immunisations,Up-to-date with immunizations,Up-to-date with immunizations (finding)",Up-to-date with immunizations
+424,C0025329,"Normal menstrual cycle,Normal menstrual cycle (finding)",Normal menstrual cycle
+425,C0349453,"Mass of thyroid gland,Mass of thyroid gland (finding),Thyroid lump,Thyroid mass",Mass of thyroid gland
+426,C0400920,"Carrier of viral hepatitis C,Hepatitis C carrier,Hepatitis C carrier (finding)",Hepatitis C carrier
+427,C0497481,"Pain in penis,Pain in penis (finding),Penile pain",Pain in penis
+428,C0231710,"Buttock pain,Pain in buttock,Pain in buttock (finding),Pygalgia",Pain in buttock
+429,C0001925,"Albuminuria,Albuminuria (finding),Albuminuria NOS",Albuminuria
+430,C0022871,"Finding of first stage of labor,Finding of first stage of labor (finding),Finding of first stage of labour,First stage of labor,First stage of labor (finding),First stage of labour,Observation of first stage of labor,Observation of first stage of labour",First stage of labor
+431,C0457238,"Technically poor CTG,Unsatisfactory CTG tracing,Unsatisfactory cardiotochogram tracing,Unsatisfactory cardiotochogram tracing (finding)",Unsatisfactory cardiotochogram tracing
+432,C0151632,"ESR raised,Elevated erythrocyte sedimentation rate,Erythrocyte sedimentation rate (ESR) raised,Erythrocyte sedimentation rate raised,Erythrocyte sedimentation rate raised (finding)",Erythrocyte sedimentation rate raised
+433,C0151632,"ESR raised,Elevated erythrocyte sedimentation rate,Erythrocyte sedimentation rate (ESR) raised,Erythrocyte sedimentation rate raised,Erythrocyte sedimentation rate raised (finding)",Elevated erythrocyte sedimentation rate
+434,C0221784,"Lesion of vulva,Lesion of vulva (finding)",Lesion of vulva
+435,C0023221,"Leg length inequality,Leg length inequality (finding),Lower limb length difference",Leg length inequality
+436,C0154729,"Atypical facial pain,Atypical facial pain,Atypical facial pain (finding)",Atypical facial pain
+437,C0239652,"Paraesthesia of foot,Paresthesia of foot,Paresthesia of foot (finding)",Paresthesia of foot
+438,C1719601,"Gravid uterus size for dates discrepancy,Gravid uterus size for dates discrepancy (finding),Uterine size date discrepancy,Uterine size for dates discrepancy",Gravid uterus size for dates discrepancy
+439,C0232257,"SM - Systolic murmur,Systolic murmur,Systolic murmur (finding),Systolic murmur NOS",Systolic murmur
+440,C0476250,"Head and neck mass,Mass in head or neck,Mass in head or neck (finding)",Mass in head or neck
+441,C0039239,"Sinus tachycardia,Sinus tachycardia (finding)",Sinus tachycardia
+442,C0362060,"Legal problem,Legal problem (finding)",Legal problem
+443,C1276053,"At risk for deliberate self harm,At risk for deliberate self harm (finding),At risk of DSH - deliberate self harm",At risk for deliberate self harm
+444,C1320654,"Already on aspirin,Already on aspirin (finding)",Already on aspirin
+445,C0424960,"Family problems,Family problems (finding)",Family problems
+446,C0423690,"Facet joint pain,Facet joint pain (finding),Facet joint syndrome",Facet joint pain
+447,C0700198,"Aspiration,Pulmonary aspiration,Pulmonary aspiration (finding)",Pulmonary aspiration
+448,C0221505,"Lesion of brain,Lesion of brain (finding)",Lesion of brain
+449,C0157187,"Elderly primigravida,Elderly primigravida (finding),Elderly primip",Elderly primigravida
+450,C0041667,"Patient underweight,Underweight,Underweight,Underweight (finding)",Underweight
+451,C0262578,"Cramp in lower leg associated with rest,Cramp in lower leg associated with rest (finding),Night cramps,Nocturnal lower leg cramp,Sleep related lower leg cramp",Cramp in lower leg associated with rest
+452,C0033774,"Itch,Itch NOS,Itch of skin,Itch of skin (observable entity),Itching,Itching (finding),Itching of skin,Itching of skin (finding),Itchy,Pruritic dermatitis,Pruritic disorder,Pruritic disorders (disorder),Pruritus,Pruritus,Pruritus - disorder,Pruritus of skin,Pruritus, unspecified",Itching
+453,C0241310,"Hypogastric pain,Pain of hypogastrium,Suprapubic pain,Suprapubic pain (finding)",Suprapubic pain
+454,C2945606,"Encopresis,Encopresis (finding),encopresis NOS",Encopresis
+455,C0236040,"Calf pain,Pain in calf,Pain in calf (finding)",Pain in calf
+456,C0549634,"Lipids abnormal,Lipids abnormal (finding)",Lipids abnormal
+457,C0451601,"Oral contraceptive prescribed,Oral contraceptive prescribed (finding)",Oral contraceptive prescribed
+458,C0577730,"Domestic stress,Family tension,Family tension (finding),Stress at home",Family tension
+459,C0038990,"Hidropoiesis,Hidrosis,Perspiration,Sweating,Sweating,Sweating (finding),Sweating observable,Sweating observable (observable entity),Sweating symptom,Sweating symptom (finding),Sweating, function,Sweating, function (observable entity),Sweats",Sweating
+460,C2732692,"Multigravida of advanced maternal age,Multigravida of advanced maternal age (finding)",Multigravida of advanced maternal age
+461,C0085631,"Agitated,Agitated behavior,Agitated behaviour,Agitation,Feeling agitated,Feeling agitated (finding),Unable to keep still",Feeling agitated
+462,C0577053,"Lesion of liver,Lesion of liver (finding)",Lesion of liver
+463,C0562383,"Victim of physical abuse,Victim of physical abuse (finding)",Victim of physical abuse
+464,C1277629,"Mass of parotid gland,Mass of parotid gland (finding),Parotid lump",Mass of parotid gland
+465,C0425775,"Absence of breast,Absence of breast (finding)",Absence of breast
+466,C0495194,"Abnormal findings on antenatal screening of mother,Abnormal findings on antenatal screening of mother,Abnormal findings on antenatal screening of mother (disorder),Unspecified abnormal findings on antenatal screening of mother",Abnormal findings on antenatal screening of mother 
+467,C0577180,"Lesion of bladder,Lesion of bladder (finding)",Lesion of bladder
+468,C1281554,"Colostomy present,Colostomy present (finding)",Colostomy present
+469,C2316650,"Chronic facial pain,Chronic pain in face,Chronic pain in face (finding)",Chronic pain in face
+470,C0237314,"Irregular heart beat,Irregular heart beat (finding)",Irregular heart beat
+471,C0237314,"Irregular heart beat,Irregular heart beat (finding)",Heart irregular
+472,C0232292,"Chest tightness,Tight chest,Tight chest (finding)",Tight chest
+473,C0581027,"Requires polio vaccination,Requires polio vaccination (finding)",Requires polio vaccination
+474,C1279420,"Anxiety neurosis,Anxiety neurosis,Anxiety neurosis (finding)",Anxiety neurosis
+475,C0260662,"Auditory alteration,Auditory dysfunction,Auditory dysfunction (disorder),Disorder of auditory system,Disorder of auditory system (disorder),Disorder of hearing,Hearing disorder,Hearing disorder (disorder),Hearing problem,Hearing problem (finding)",Hearing problem
+476,C0020672,"Body temperature below normal,Decreased body temperature,Hypothermia,Hypothermia (finding),Hypothermia NOS,State of hypothermia,Temperature subnormal",Hypothermia
+477,C0580476,"AST/SGOT level raised,Aspartate aminotransferase/serum glutamic oxaloacetic transaminase level raised,Aspartate aminotransferase/serum glutamic oxaloacetic transaminase level raised (finding)",Aspartate aminotransferase/serum glutamic oxaloacetic transaminase level raised
+478,C0085602,"Always thirsty,Cannot stop drinking,Desperate to drink,Drinks a lot - fluids,Drinks continuously,Excessive fluid intake - finding,Excessive thirst,Excessive thirst,Excessive thirst (finding),Finding of excessive fluid intake,Finding of excessive fluid intake (finding),Keen for fluids,Polydipsia",Excessive thirst
+479,C0016204,"Flatulence,Flatulence,Flatulence symptom,Flatulence symptom (finding),Flatus,Flatus,Flatus, function,Flatus, function (observable entity),Full of wind,Intestinal gas excretion,Passage of gas by anus,Passing flatus,Passing flatus (finding),Wind - flatus,Wind symptom",Flatulence symptom
+480,C0423600,"Feeling of lump in throat,Feeling of lump in throat (finding)",Feeling of lump in throat
+481,C0677628,"Drusen of macula,Macular drusen,Macular drusen (finding)",Macular drusen
+482,C0580173,"Intermittent spinal claudication,Neurogenic claudication,Neurogenic claudication (finding),Pseudoclaudication,Spinal claudication",Neurogenic claudication
+483,C1096624,"Periumbilical abdominal pain,Periumbilical pain,Periumbilical pain,Periumbilical pain (finding)",Periumbilical pain
+484,C0426848,"Pilonidal dimple,Sacral dimple,Sacral dimple (finding),Sacral dimples,Sacral dimples (finding)",Sacral dimple
+485,C0426848,"Pilonidal dimple,Sacral dimple,Sacral dimple (finding),Sacral dimples,Sacral dimples (finding)",Sacral dimples
+486,C0241981,"Balance impairment,Impairment of balance,Impairment of balance (finding),Loss of balance,Problem with balance,Unable to balance,Unable to balance (finding)",Impairment of balance
+487,C0241981,"Balance impairment,Impairment of balance,Impairment of balance (finding),Loss of balance,Problem with balance,Unable to balance,Unable to balance (finding)",Unable to balance
+488,C4707862,"Constantly crying infant,Constantly crying infant (finding)",Constantly crying infant
+489,C0241042,"Shoulder stiff,Shoulder stiff (finding)",Shoulder stiff
+490,C0281860,"Wound haematoma,Wound hematoma,Wound hematoma (finding)",Wound hematoma
+491,C0232058,"Apnea in the newborn,Apnea in the newborn (finding),Apnea neonatorum,Apnea of newborn,Apnoea in the newborn,Apnoea neonatorum,Apnoea of newborn,Neonatal apnoea",Apnea in the newborn
+492,C0018979,"Hemianopia,Hemianopia (finding)",Hemianopia
+493,C0028084,"Nightmares,Nightmares (finding)",Nightmares
+494,C0587094,"Breast calcification,Calcification of breast,Calcification of breast (finding)",Calcification of breast
+495,C0239832,"Numbness of hand,Numbness of hand (finding)",Numbness of hand
+496,C0423122,"Brow ptosis,Brow ptosis,Eyebrow ptosis,Ptosis brow,Ptosis of eyebrow,Ptosis of eyebrow (finding)",Ptosis of eyebrow
+497,C0006625,"Cachectic,Cachexia,Cachexia,Cachexia (finding),General body deterioration",Cachexia
+498,C0008909,"Claustrophobia,Claustrophobia,Claustrophobia (finding),Fear of confined spaces,Fear of enclosed spaces,Fear of enclosed spaces (finding)",Claustrophobia
+499,C0032992,"Planned pregnancy,Pregnant - planned,Pregnant - planned (finding)",Pregnant - planned
+500,C0700440,"Lung field abnormal,Lung field abnormal (finding)",Lung field abnormal
+501,C0398623,"Hypercoagulability,Hypercoagulability state,Hypercoagulability state (finding),Hypercoagulable state,Hypercoagulable state NOS,Thrombophilia,Thrombophilia (disorder),Thrombophilia NOS",Hypercoagulability state
+502,C1997094,"Dependence on continuous positive airway pressure (CPAP) ventilation,Dependence on continuous positive airway pressure ventilation,Dependence on continuous positive airway pressure ventilation (finding)",Dependence on continuous positive airway pressure ventilation
+503,C1277644,"Persistent breast nodularity,Persistent breast nodularity (finding),Persistent nodularity",Persistent breast nodularity
+504,C0587055,"Numbness of lower limb,Numbness of lower limb (finding)",Numbness of lower limb
+505,C0574952,"Ankle joint active,Ankle joint inflamed,Ankle joint inflamed (finding)",Ankle joint inflamed
+506,C0849993,"Fussy infant,Fussy infant (finding),Unsettled infant",Fussy infant
+507,C0020578,"HV - Hyperventilation,Hyperventilating,Hyperventilation,Hyperventilation,Hyperventilation (finding),Overbreathing",Hyperventilation
+508,C0578590,"Lesion eyelid,Lesion of eyelid,Lesion of eyelid (finding),Lid lesion",Lesion of eyelid
+509,C0235659,"Baby kicking less,Baby moving less,Decreased fetal movements,Decreased fetal movements, unspecified trimester, not applicable or unspecified,Low fetal movement,Low foetal movement,Reduced fetal movement,Reduced fetal movement (finding),Reduced foetal movement",Reduced fetal movement
+510,C0232492,"Pain localized to upper abdomen,Upper abdominal pain,Upper abdominal pain (finding),Upper abdominal pain, unspecified",Upper abdominal pain
+511,C0085616,"Angiospasm,Blood vessel spasm,Vascular spasm,Vasospasm,Vasospasm (finding)",Vasospasm
+512,C0038999,"Bulge,Bulging,Bulging (morphologic abnormality),Observation of swelling,Part of body puffy,Part of body swollen,Swelling,Swelling,Swelling (finding),Swelling (morphologic abnormality),Tumefaction,Tumescence",Swelling
+513,C0587955,"Urine cytology abnormal,Urine cytology abnormal (finding)",Urine cytology abnormal
+514,C0038450,"Stridor,Stridor,Stridor (finding),Stridulous breathing",Stridor
+515,C0151849,"Alkaline phosphatase raised,Alkaline phosphatase raised (finding)",Alkaline phosphatase raised
+516,C0023380,"Lethargic,Lethargy,Lethargy,Lethargy (finding)",Lethargy
+517,C0152032,"Delay when starting to pass urine,Delay when starting to pass urine (finding),Hesitancy,Hesitancy of micturition,Hesitancy of micturition,Urinary hesitancy,Urinary hesitation",Delay when starting to pass urine
+518,C2711657,"Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid (DNA) test,Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test,Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test (finding)",Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test
+519,C0231357,"At risk for impaired skin integrity,At risk for impaired skin integrity (finding),At risk for skin ulceration,Potential skin breakdown,Skin at risk of breakdown,Skin integrity at risk,Skin integrity impairment risk,Vulnerable to skin tissue breakdown",At risk for impaired skin integrity
+520,C0234655,"Burning sensation in eye,Burning sensation in eye (finding)",Burning sensation in eye
+521,C0851043,"Increased lipid,Increased lipid (finding)",Increased lipid
+522,C0454644,"Delayed articulatory and language development,Delayed articulatory and language development (finding),Developmental language delay",Delayed articulatory and language development
+523,C0007863,"Cervico-occipital neuralgia,Cervico-occipital neuralgia (finding),Occipital neuralgia,Occipital neuralgia",Cervico-occipital neuralgia
+524,C0426359,"Urinary symptoms,Urinary symptoms (finding),Urinary system symptoms",Urinary symptoms
+525,C1562303,"Cervicovaginal cytology: LGSIL,Cervicovaginal cytology: LSIL,Cervicovaginal cytology: Low grade squamous intraepithelial lesion,Cervicovaginal cytology: Low grade squamous intraepithelial lesion (finding)",Cervicovaginal cytology: Low grade squamous intraepithelial lesion
+526,C0240611,"Mass of ovary,Mass of ovary (finding),Ovarian mass",Mass of ovary
+527,C0152031,"Joint swelling,Joint swelling (finding),Observation of joint swelling,Swollen joint",Joint swelling
+528,C0003635,"Apraxia,Apraxia,Apraxia (finding),Dyspraxia,Dyspraxia (finding)",Apraxia
+529,C2919395,"High risk pregnancy due to history of preterm labor,High risk pregnancy due to history of preterm labor (finding),High risk pregnancy due to history of preterm labour",High risk pregnancy due to history of preterm labor
+530,C0085593,"Chill,Chill (finding),Chills NOS",Chill
+531,C0151825,"Bone pain,Bone pain (finding),Osteodynia",Bone pain
+532,C0003126,"Absent smell,Anosmia,Anosmia,Anosmia (loss of sense of smell),Loss of sense of smell,Loss of sense of smell (finding),Loss of the sense of smell,No sense of smell,Sense of smell absent,Sense of smell lost",Loss of sense of smell
+533,C0742352,"Mass of chest wall,Mass of chest wall (finding)",Mass of chest wall
+534,C0427262,"Instability of knee,Instability of knee joint,Knee gives way,Unstable knee,Unstable knee (finding)",Unstable knee
+535,C1268712,"Mammographic breast mass,Mammographic breast mass finding,Mammographic breast mass finding (finding)",Mammographic breast mass finding
+536,C0240318,"Mass of mediastinum,Mass of mediastinum (finding),Mediastinal mass",Mass of mediastinum
+537,C0392699,"Dysaesthesia,Dysaesthesia (abnormal sensation),Dysesthesia,Dysesthesia (abnormal sensation),Dysesthesia (finding)",Dysesthesia
+538,C0184567,"Acute pain,Acute pain (finding),Acute pain NOS",Acute pain
+539,C1277595,"Poor sleep pattern,Poor sleep pattern (finding)",Poor sleep pattern
+540,C0271202,"HH - Homonymous hemianopia,Homonymous bilateral field defects,Homonymous bilateral field defects NOS,Homonymous bilateral visual field defects,Homonymous hemianopia,Homonymous hemianopia,Homonymous hemianopia (finding),Homonymous hemianopsia",Homonymous hemianopia
+541,C0562381,"Abuse,Abused person,Victim of abuse,Victim of abuse (finding)",Victim of abuse
+542,C0159054,"Abnormal sputum,Abnormal sputum,Abnormal sputum (finding),Sputum examination: abnormal,Sputum examination: abnormal (finding),abnormal findings in sputum",Abnormal sputum
+543,C0427780,"Pregnancy test negative,Pregnancy test negative (finding)",Pregnancy test negative
+544,C0580467,"C-reactive protein abnormal,C-reactive protein abnormal (finding)",C-reactive protein abnormal
+545,C0549106,"Financial problem,Financial problem (finding)",Financial problem
+546,C0086438,"Hypogammaglobulinaemia,Hypogammaglobulinemia,Hypogammaglobulinemia (finding),Hypogammaglobulinemia NOS",Hypogammaglobulinemia
+547,C2316757,"Elevated creatine kinase level,Increased CK (creatine kinase) level,Increased creatine kinase level,Increased creatine kinase level (finding),Raised creatine kinase level",Increased creatine kinase level
+548,C0438228,"Coag./bleeding tests abnormal,Coagulation/bleeding tests abnormal,Coagulation/bleeding tests abnormal (finding)",Coagulation/bleeding tests abnormal
+549,C0239233,"Early satiety,Early satiety,Early satiety (finding),Early satiety (fullness)",Early satiety
+550,C0234233,"Sore pain,Sore to touch,Soreness,Soreness (finding),Tender pain,Tenderness,Tenderness (finding)",Tenderness
+551,C0423668,"Arthralgia of the upper arm,Arthralgia of the upper arm (finding)",Arthralgia of the upper arm
+552,C0575810,"Weakness of hand,Weakness of hand (finding)",Weakness of hand
+553,C0423736,"Burning pain on urination,Scalding pain on urination,Scalding pain on urination (finding)",Scalding pain on urination
+554,C0017565,"Bleeding gums,Bleeding gums (finding),Gingival bleeding,Gingival haemorrhage,Gingival hemorrhage",Bleeding gums
+555,C0270906,"Tardy ulnar nerve palsy,Tardy ulnar nerve palsy,Tardy ulnar nerve palsy (finding)",Tardy ulnar nerve palsy
+556,C0494475,"Grand mal convulsion,Grand mal seizure,Grand mal seizure NOS,Tonic-clonic convulsion,Tonic-clonic seizure,Tonic-clonic seizure (finding),Tonic-clonic seizures",Tonic-clonic seizure
+557,C0426209,"Amniotic fluid -meconium stain,Amniotic fluid -meconium stain (finding),Meconium stained amniotic fluid,Meconium stained liquor,Meconium stained liquor (finding),Meconium staining",Amniotic fluid -meconium stain
+558,C0694536,"Drug seeking,Drug seeking behavior,Drug seeking behavior (finding),Drug seeking behaviour",Drug seeking behavior
+559,C0586553,"Raised TSH level,Raised thyroid stimulating hormone level,Raised thyroid stimulating hormone level (finding)",Raised thyroid stimulating hormone level
+560,C0586553,"Raised TSH level,Raised thyroid stimulating hormone level,Raised thyroid stimulating hormone level (finding)",Increased thyroid stimulating hormone level
+561,C0436540,"MRI scan abnormal,Magnetic resonance imaging scan abnormal,Magnetic resonance imaging scan abnormal (finding)",Magnetic resonance imaging scan abnormal
+562,C0149774,"Mass of scrotum,Mass of scrotum (finding),Scrotal mass",Mass of scrotum
+563,C0149707,"Blood in semen,Haemospermia,Hematospermia,Hemospermia,Hemospermia (finding)",Hemospermia
+564,C0238729,"Lump of axilla,Mass of axilla,Mass of axilla (finding)",Mass of axilla
+565,C2603353,"Mass of thoracic structure,Mass of thoracic structure (finding)",Mass of thoracic structure
+566,C0576456,"Feeding poor,Feeding poor (finding),Poor feeding",Feeding poor
+567,C0233794,"Bad memory,Disturbance of memory,Impaired memory,Memory deficit,Memory impairment,Memory impairment (finding),Memory problem,Poor memory",Memory impairment
+568,C0426900,"Tibial torsion,Tibial torsion (finding)",Tibial torsion
+569,C0231471,"Abnormal body position,Abnormal posture,Abnormal posture,Abnormal posture (finding)",Abnormal posture
+570,C0041834,"Erythema,Erythema,Erythema (finding),Erythema (morphologic abnormality),Erythema - observation,Erythema NOS,Erythema of skin,Erythema of skin (finding),Erythematous condition,Erythematous condition (disorder),Erythematous condition, unspecified",Erythema
+571,C0042749,"Viraemia,Viral sepsis,Viremia,Viremia (finding),Viremia NOS",Viremia
+572,C0031256,"Petechia,Petechia (morphologic abnormality),Petechiae,Petechiae,Petechiae,Petechiae (finding),Petechial haemorrhage,Petechial hemorrhage",Petechiae
+573,C0587050,"Mass of lower limb,Mass of lower limb (finding)",Mass of lower limb
+574,C0026827,"Decreased muscle tone,Decreased muscle tone (finding),Hypotonia,Hypotonus,Loose muscle tone,Low muscle tone,Muscle hypotonia,Muscle hypotonicity,Poor muscle tone,Poor muscle tone (finding)",Decreased muscle tone
+575,C0338591,"TGA - Transient global amnesia,Transient global amnesia,Transient global amnesia,Transient global amnesia (finding)",Transient global amnesia
+576,C0006147,"BF - Breastfed,BF - Breastfeeding,Breast fed,Breast fed (finding),Infant breastfed",Breast fed
+577,C0232841,"Bladder dysfunction,Bladder dysfunction (finding)",Bladder dysfunction
+578,C0235639,"Abnormal urine,Abnormal urine (finding)",Abnormal urine
+579,C0236848,"Age-related cognitive decline,Age-related cognitive decline,Age-related cognitive decline (finding)",Age-related cognitive decline
+580,C0853697,"Neutropenia,Neutropenia (finding),Neutrophil count below reference range",Neutropenia
+581,C0474648,"Syphilis titer test positive,Syphilis titer test positive (finding),Syphilis titre test positive",Syphilis titer test positive
+582,C0156406,"Bleeding after intercourse,PCB - Postcoital bleeding,Postcoital bleeding,Postcoital bleeding (finding)",Postcoital bleeding
+583,C0037580,"Soft tissue swelling,Soft tissue swelling (finding)",Soft tissue swelling
+584,C0278100,"Abnormal female sexual function,Abnormal female sexual function (finding)",Abnormal female sexual function
+585,C0562961,"Does use hearing aid,Does use hearing aid (finding),Uses hearing aid",Does use hearing aid
+586,C0239649,"Numbness of foot,Numbness of foot (finding)",Numbness of foot
+587,C0235162,"Difficulty sleeping,Difficulty sleeping (finding),Poor sleep",Difficulty sleeping
+588,C0458239,"Arthralgia of foot,Foot joint pain,Foot joint pain (finding)",Foot joint pain
+589,C0475858,"Generalised itching,Generalised pruritus,Generalized itching,Generalized pruritus,Generalized pruritus (finding)",Generalized pruritus
+590,C0024630,"Feigning illness,Malingering,Malingering (finding)",Malingering
+591,C0282005,"Swelling of scrotum,Swelling of scrotum (finding),Swollen scrotum",Swelling of scrotum
+592,C1443982,"ALT (SGPT) level raised,Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level raised,Alanine aminotransferase (serum glutamic-pyruvic transaminase) level raised,Alanine aminotransferase (serum glutamic-pyruvic transaminase) level raised (finding)",Alanine aminotransferase (serum glutamic-pyruvic transaminase) level raised
+593,C2919140,"Employment problem,Employment problem (finding)",Employment problem
+594,C0009269,"Chilly person,Cold sensitivity,Feels the cold,Intolerant of cold,Intolerant of cold (finding),Sensitive to cold",Intolerant of cold
+595,C2711812,"Gestational age unknown,Gestational age unknown (finding)",Gestational age unknown
+596,C0425309,"ETS - Exposed to tobacco smoke,Exposed to environmental tobacco smoke,Exposed to second hand tobacco smoke,Exposed to tobacco smoke,Involuntary smoker,Passive smoker,Passive smoker (finding)",Passive smoker
+597,C0575544,"Shoulder joint deformity,Shoulder joint deformity (finding)",Shoulder joint deformity
+598,C0221150,"Odynophagia,Pain on swallowing,Painful swallowing,Swallowing painful,Swallowing painful (finding)",Swallowing painful
+599,C1527340,"Abnormal voice,Abnormal voice (finding)",Abnormal voice
+600,C0038506,"Dysphemia,Non-fluent speech,Stammer,Stammering,Stutter,Stuttering,Stuttering (finding),Stuttering NOS",Stuttering
+601,C1295654,"Decreased testosterone level,Decreased testosterone level (finding),Low testosterone",Decreased testosterone level
+602,C0221265,"Microcytosis,Microcytosis, red cells,Microcytosis, red cells (finding)","Microcytosis, red cells"
+603,C0231835,"Rapid breathing,Rapid respiration,Tachypnea,Tachypnea (finding),Tachypnea NOS,Tachypneic,Tachypnoea,Tachypnoeic",Tachypnea
+604,C0238775,"Bladder mass,Mass of bladder,Mass of urinary bladder,Mass of urinary bladder (finding)",Mass of urinary bladder
+605,C0349506,"Photosensitivity,Photosensitivity (finding),Photosensitivity of skin",Photosensitivity
+606,C0239667,"Pain in forearm,Pain in forearm,Pain in forearm (finding),Pain in unspecified forearm",Pain in forearm
+607,C0233081,"Active labor,Active labour,Eutocia,Normal labor,Normal labor (finding),Normal labour",Normal labor
+608,C1281553,"Ileostomy present,Ileostomy present (finding),Ileostomy, has currently",Ileostomy present
+609,C0010263,"Cramp in extremity,Cramp in limb,Cramp in limb (finding)",Cramp in limb
+610,C0339808,"Allergy to house dust mite,Allergy to house dust mite (disorder),House dust mite allergy",Allergy to dust mite protein
+611,C0013609,"Local edema,Local oedema,Localised oedema,Localised oedema,Localized edema,Localized edema,Localized edema,Localized edema (finding),Localized edema (morphologic abnormality)",Localized edema
+612,C0555003,"Partnership problems,Partnership problems (finding)",Partnership problems
+613,C0149751,"Lesion of penis,Lesion of penis (finding),Lesion penis",Lesion of penis
+614,C0015644,"Fasciculation,Flickering muscles,Fluttering muscles,Muscle fasciculation,Muscle fasciculation (finding),Muscular fasciculation,Spontaneous contraction of muscle,Writhing muscles",Muscle fasciculation
+615,C0241436,"Mass of tongue,Mass of tongue (finding)",Mass of tongue
+616,C0017979,"Glucosuria,Glycosuria,Glycosuria,Glycosuria (finding)",Glycosuria
+617,C0337668,"Moderate smoker (20 or less per day),Moderate smoker (20 or less per day) (finding)",Moderate smoker (20 or less per day)
+618,C0423572,"Pins and needles,Pins and needles,Pins and needles (finding),Pins and needles sensation",Pins and needles
+619,C0556280,"Gross motor impairment,Gross motor impairment (finding)",Gross motor impairment
+620,C0476281,"Non-cardiac chest pain,Non-cardiac chest pain (finding),Noncardiac chest pain",Non-cardiac chest pain
+621,C0233715,"Disturbance in speech,Disturbance in speech (finding),Has difficulty with speech,Has difficulty with speech (finding),Speech abnormality,Speech impairment,Unspecified speech disturbances",Disturbance in speech
+622,C0575805,"Swelling of hand,Swelling of hand (finding),Swollen hand",Swelling of hand
+623,C0392678,"Impaired swallowing,Swallowing impairment,Swallowing problem,Swallowing problem (finding)",Swallowing problem
+624,C0159028,"General symptom,General symptom (finding)",General symptom
+625,C0556279,"Difficulty with personal care,Personal care impairment,Personal care impairment (finding),Personal condition impairment of self care",Personal care impairment
+626,C0149696,"Food intolerance,Food intolerance,Food intolerance (disorder),Food intolerance (finding),Food intolerance reaction,Malabsorption due to food intolerance",Intolerance to food
+627,C0221629,"Proximal muscle weakness,Proximal muscle weakness (finding)",Proximal muscle weakness
+628,C0151994,"Enlarged uterus,Enlarged uterus (finding),Large uterus,Uterine enlargement",Enlarged uterus
+629,C1290739,"Abnormal tooth restoration,Defective dental restoration,Defective dental restoration,Defective dental restoration (finding),Defective dental restoration NOS,Defective restoration of teeth",Defective dental restoration
+630,C0749225,"Systolic dysfunction,Systolic dysfunction (finding)",Systolic dysfunction
+631,C0231686,"Disequilibrium when walking,Instability of gait,Unstable when walking,Unsteady gait,Unsteady gait (finding),Unsteady when walking,Unsteady when walking (finding)",Unsteady gait
+632,C0344198,"Adult abuse,Adult victim of abuse,Adult victim of abuse (finding)",Adult victim of abuse
+633,C0266836,"Infantile colic,Infantile colic,Infantile colic (finding),Infantile colic - symptom,Three month colic",Infantile colic
+634,C0263904,"Sacroiliac instability,Sacroiliac instability (disorder),Sacroiliac joint unstable",Sacroiliac instability
+635,C0018564,"Deformity of hand,Deformity of hand (finding)",Deformity of hand
+636,C0577877,"Lesion of nose,Lesion of nose (finding)",Lesion of nose
+637,C0037771,"Spastic paraparesis,Spastic paraparesis (finding)",Spastic paraparesis
+638,C2919578,"Mass of submandibular region,Mass of submandibular region (finding)",Mass of submandibular region
+639,C0577598,"Swelling of upper arm,Swelling of upper arm (finding),Swelling of upper limb,Swelling of upper limb (finding)",Swelling of upper arm
+640,C0577598,"Swelling of upper arm,Swelling of upper arm (finding),Swelling of upper limb,Swelling of upper limb (finding)",Swelling of arm
+641,C0231347,"At risk for noncompliance,At risk for noncompliance (finding),Potential noncompliance",At risk for noncompliance
+642,C0008370,"Bile stasis,Cholestasis,Cholestasis (finding),Obstruction of bile duct,Obstruction of bile duct,Obstruction of bile duct (disorder),Occlusion of bile duct,Occlusion of bile duct (disorder)",Cholestasis
+643,C0277851,"Ankle instability,Ankle instability (finding)",Ankle instability
+644,C0277851,"Ankle instability,Ankle instability (finding)",Unstable ankle
+645,C0240007,"Groin lump,Groin mass,Groin mass (finding),Mass of inguinal region",Groin mass
+646,C0150037,"Altered growth and development,Altered growth and development (finding),Childhood growth AND/OR development alteration,Childhood growth AND/OR development alteration (finding),Growth and development alteration",Childhood growth AND/OR development alteration
+647,C0495676,"Intra-abdominal and pelvic swelling, mass and lump,Intra-abdominal and pelvic swelling, mass and lump,Intra-abdominal and pelvic swelling, mass and lump (finding)","Intra-abdominal and pelvic swelling, mass and lump"
+648,C0232940,"Loss of menstrual period,Secondary amenorrhea,Secondary amenorrhea,Secondary amenorrhoea,Secondary physiologic amenorrhea,Secondary physiologic amenorrhea (finding),Secondary physiologic amenorrhoea",Secondary physiologic amenorrhea
+649,C0037301,"Rugosity of skin,Wrinkled skin,Wrinkled skin (finding)",Wrinkled skin
+650,C0240596,"Fear of becoming fat,Fear of becoming fat (finding),Fear of obesity",Fear of becoming fat
+651,C0426390,"Bladder spasm,Spasm of bladder,Spasm of bladder (finding)",Spasm of bladder
+652,C0524385,"Living in residential institution,Living in residential institution (finding)",Living in residential institution
+653,C3887875,"Unspecified visual field defects,VFD - Visual field defect,Visual field defect,Visual field defect (finding),Visual field defects",Visual field defect
+654,C1282512,"At risk of CHD,At risk of coronary heart disease,At risk of coronary heart disease (finding)",At risk of coronary heart disease
+655,C0424964,"Maternal concern,Maternal concern (finding)",Maternal concern
+656,C0578503,"Abnormal vaginal bleeding,Abnormal vaginal bleeding (finding)",Abnormal vaginal bleeding
+657,C4551518,"Venous stasis,Venous stasis (finding)",Venous stasis
+658,C0236849,"Encopresis with constipation AND overflow incontinence,Encopresis with constipation AND overflow incontinence (finding)",Encopresis with constipation AND overflow incontinence
+659,C0426147,"Fetal foot presenting,Fetal leg presenting,Foetal foot presenting,Foetal leg presenting,Footling breech presentation,Footling breech presentation (finding)",Footling breech presentation
+660,C1399729,"Mass of head,Mass of head (finding)",Mass of head
+661,C2919588,"Helicobacter pylori antibody above reference range,Helicobacter pylori antibody above reference range (finding),Helicobacter pylori antibody elevation,Raised Helicobacter pylori antibody",Helicobacter pylori antibody above reference range
+662,C0030540,"Parent-child problem,Parent-child problem (finding),Parent/child conflict,Parent/child conflict (finding)",Parent-child problem
+663,C0474413,"Problematic behavior in children,Problematic behavior in children (finding),Problematic behaviour in children",Problematic behavior in children
+664,C0034150,"Disorder characterised by purpura,Disorder characterized by purpura,Peliosis,Purpura,Purpura,Purpura (finding),Purpura (morphologic abnormality),Purpura NOS,Purpuric disorder,Purpuric disorder (disorder)",Purpura
+665,C0555026,"Marital conflict,Marital conflict (finding),Marital estrangement,Marital problems,Marital problems (finding)",Marital problems
+666,C0238637,"Anal pain,Anal pain (finding)",Anal pain
+667,C0576971,"Lesion of tongue,Lesion of tongue (finding)",Lesion of tongue
+668,C0221755,"Abdominal bruit,Abdominal bruit (finding)",Abdominal bruit
+669,C0574945,"Wrist joint active,Wrist joint inflamed,Wrist joint inflamed (finding)",Wrist joint inflamed
+670,C0556340,"Habitual drinker,Habitual drinker (finding)",Habitual drinker
+671,C0016506,"Deformity of foot,Deformity of foot (finding)",Deformity of foot
+672,C0410928,"Breastfeeding problem in the newborn,Breastfeeding problem in the newborn (finding)",Breastfeeding problem in the newborn
+673,C0522035,"Edema of the upper extremity,Edema of the upper extremity (finding),Oedema of the upper extremity",Edema of the upper extremity
+674,C0751509,"Short-sleeper,Short-sleeper (finding)",Short-sleeper
+675,C0476587,"Academic underachievement,Academic underachievement (finding)",Academic underachievement
+676,C4520847,"IgG subclass deficiency,Immunoglobin G subclass deficiency,Immunoglobulin G subclass deficiency,Immunoglobulin G subclass deficiency (finding)",Immunoglobulin G subclass deficiency
+677,C0151900,"Serum iron raised,Serum iron raised (finding)",Serum iron raised
+678,C0580979,"Requires a meningitis vaccination,Requires a meningitis vaccination (finding)",Requires a meningitis vaccination
+679,C0005826,"Abnormal blood pressure,Abnormal blood pressure (finding)",Abnormal blood pressure
+680,C1319441,"Body mass index 40+ - morbidly obese,Body mass index 40+ - severely obese,Body mass index 40+ - severely obese (finding),Obese class III",Body mass index 40+ - severely obese
+681,C0742078,"Brain mass,Mass lesion of brain,Mass lesion of brain (finding),Space-occupying lesion of brain",Mass lesion of brain
+682,C1828173,"Unexplained weight loss,Unexplained weight loss (finding)",Unexplained weight loss
+683,C1960105,"Active living will,Active living will (finding)",Active living will
+684,C0566871,"Fetal heart rate absent,Fetal heart rate absent (finding),Foetal heart rate absent",Fetal heart rate absent
+685,C1960756,"Complicated grieving,Complicated grieving (finding)",Complicated grieving
+686,C0239134,"Loose cough,Moist cough,Producing sputum,Productive cough,Productive cough (finding)",Productive cough
+687,C0566943,"Vaginal lesion,Vaginal lesion (finding)",Vaginal lesion
+688,C0012766,"Disturbances of skin sensation,Skin sensation disturbance,Skin sensation disturbance (finding)",Skin sensation disturbance
+689,C1997037,"Dependence on haemodialysis due to end stage renal disease,Dependence on hemodialysis due to end stage renal disease,Dependence on hemodialysis due to end stage renal disease (finding)",Dependence on hemodialysis due to end stage renal disease
+690,C1455890,"Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion,Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion (finding)",Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion
+691,C0086209,"Emotional stress,Emotional stress (finding)",Emotional stress
+692,C0232968,"Menopausal problem,Menopausal problem (finding)",Menopausal problem
+693,C0018520,"Bad breath,Bad breath - halitosis,Breath smells offensive,Breath smells unpleasant,Breath smells unpleasant (finding),Fetor ex ore,Fetor oris,Foul breath,Halitosis,Smelly breath,Stomatodysodia",Breath smells unpleasant
+694,C0439044,"Lives alone,Lives alone (finding)",Lives alone
+695,C2364378,"Noncompliance with diagnostic testing,Noncompliance with diagnostic testing (finding),Noncompliance: diagnostic testing",Noncompliance with diagnostic testing
+696,C0581362,"Anorectal pain,Anorectal pain (finding)",Anorectal pain
+697,C0404532,"Lax vaginal introitus,Lax vaginal introitus (disorder),Relaxation of vaginal outlet",Lax vaginal introitus
+698,C0423669,"Arthralgia of elbow,Elbow joint pain,Elbow joint pain (finding)",Elbow joint pain
+699,C0239886,"Frontal headache,Frontal headache (finding)",Frontal headache
+700,C0750955,"Spastic neurogenic bladder,Spastic neurogenic bladder (finding),Spastic neuropathic bladder",Spastic neurogenic bladder
+701,C0425496,"Clearing throat - hawking,Clearing throat - hawking (finding)",Clearing throat - hawking
+702,C0080233,"Acquired absence of teeth,Acquired absence of teeth (disorder),Acquired edentia,Loss of teeth,Loss of teeth - acquired,Shedding of tooth,Teeth missing,Tooth loss,Tooth loss (finding)",Tooth loss
+703,C0406670,"Pain of vulva,Vulval pain,Vulval pain (finding),Vulvodynia,Vulvodynia,Vulvodynia (disorder),Vulvodynia NOS,Vulvodynia, unspecified",Vulval pain
+704,C3815933,"Uninsured medical expenses,Uninsured medical expenses (finding)",Uninsured medical expenses
+705,C0011206,"ABS - Acute brain syndrome,Acute brain syndrome,Delirious,Delirious (finding),Delirium,Delirium (disorder),Delirium NOS",Delirious
+706,C0002695,"Amputee,Amputee (finding)",Amputee
+707,C0237349,"Unbalanced diet,Unbalanced diet (finding)",Unbalanced diet
+708,C2712998,"Cardiac pacemaker in situ,Cardiac pacemaker in situ (finding)",Cardiac pacemaker in situ
+709,C2732900,"Willing to be donor of liver,Willing to be donor of liver (finding)",Willing to be donor of liver
+710,C1446377,"Mental health problem,Mental health problem (finding)",Mental health problem
+711,C0206120,"Anergy,Anergy (finding),Clonal anergy,Clonal anergy (finding)",Anergy
+712,C0241410,"Chews tobacco,Chews tobacco (finding)",Chews tobacco
+713,C0013384,"Dyskinesia,Dyskinesia (finding),Dyskinesia NOS,dyskinesia",Dyskinesia
+714,C0424802,"Smells of urine,Smells of urine (finding),Urinary body odor,Urinary body odour",Smells of urine
+715,C2364379,"Noncompliance with dietary regimen,Noncompliance with dietary regimen (finding),Noncompliance with recommended nutrition plan,Noncompliance: dietary regimen,Noncompliance: recommended nutrition plan",Noncompliance with dietary regimen
+716,C0424939,"LD - Learning difficulties,Learning difficulties,Learning difficulties (finding)",Learning difficulties
+717,C0332544,"Abnormal increase in weight,Abnormal weight gain,Abnormal weight gain,Abnormal weight gain (finding)",Abnormal weight gain
+718,C0595929,"Serum cholesterol raised,Serum cholesterol raised (finding)",Serum cholesterol raised
+719,C0236151,"Abnormal renal function test,Abnormal results of kidney function studies,Abnormal results of kidney function studies,Renal function tests abnormal,Renal function tests abnormal (finding)",Renal function tests abnormal
+720,C0700031,"Anxiety attack,Anxiety attack (finding)",Anxiety attack
+721,C0423086,"Gazing fixedly,Staring,Staring (finding)",Staring
+722,C0085633,"Changeable mood,Emotional instability,Emotional lability,Emotional lability,Emotionally labile,Labile in mood,Labile mood,Mood swing,Mood swings,Mood swings (finding),Unstable mood,Variable mood",Mood swings
+723,C0701811,"Poor short-term memory,Poor short-term memory (finding),Short term memory loss,Short-term memory loss",Poor short-term memory
+724,C0456541,"Crooked nose,Nasal deviation,Nasal deviation (finding)",Nasal deviation
+725,C0429826,"Dysfunctional elimination of urine,Dysfunctional voiding of urine,Dysfunctional voiding of urine (finding),Voiding dysfunction",Dysfunctional voiding of urine
+726,C0426317,"GU symptoms,GUT symptoms,Genitourinary symptoms,Genitourinary symptoms (finding)",Genitourinary symptoms
+727,C0159047,"Symbolic dysfunction,Symbolic dysfunction (finding),Unspecified symbolic dysfunctions",Symbolic dysfunction
+728,C0347940,"Chest swelling,Chest swelling (finding)",Chest swelling
+729,C0026644,"Absence of teeth,Edentulous,Edentulous (finding),No natural teeth",Edentulous
+730,C0241745,"Wound pain,Wound pain (finding)",Wound pain
+731,C1997635,"Instability of femoropatellar joint,Instability of femoropatellar joint (finding),Patellar instability",Instability of femoropatellar joint
+732,C0003564,"Absence of voice,Aphonia,Aphonia,Aphonia (disorder),Does not phonate,Does not produce voice,Does not vocalise,Does not vocalize,Loss of voice,Loss of voice,Loss of voice (finding)",Loss of voice
+733,C1389941,"Flaccid neurogenic bladder,Flaccid neurogenic bladder (finding),Flaccid neuropathic bladder",Flaccid neurogenic bladder
+734,C0235808,"Male perineal pain,Pain in male perineum,Pain in male perineum (finding)",Pain in male perineum
+735,C2919332,"Cytomegalovirus antibody in serum positive,Cytomegalovirus antibody in serum positive (finding),Cytomegalovirus serostatus positive",Cytomegalovirus antibody in serum positive
+736,C0476382,"Lytic lesion of bone on X-ray,Lytic lesion of bone on X-ray (finding)",Lytic lesion of bone on X-ray
+737,C2711273,"Cardiac defibrillator in situ,Cardiac defibrillator in situ (finding)",Cardiac defibrillator in situ
+738,C2711691,"Imaging of lung abnormal,Imaging of lung abnormal (finding)",Imaging of lung abnormal
+739,C2919587,"Antinuclear antibody above reference range,Antinuclear antibody above reference range (finding),Raised antinuclear antibody",Antinuclear antibody above reference range
+740,C2081572,"Low lying placenta,Low lying placenta (finding)",Low lying placenta
+741,C1320835,"Drug fever,Drug-induced hyperpyrexia,Drug-induced hyperpyrexia (finding)",Drug-induced hyperpyrexia
+742,C0236082,"Pain in vagina,Vaginal pain,Vaginal pain (finding)",Vaginal pain
+743,C0586285,"Amputated big toe,Amputated big toe (finding)",Amputated big toe
+744,C0010520,"Cyanosed,Cyanosis,Cyanosis,Cyanosis (finding),Cyanosis of skin,Cyanosis of skin (finding)",Cyanosis
+745,C1272097,"Serum ferritin high,Serum ferritin high (finding)",Serum ferritin high
+746,C0149653,"Diverticulosis of colon without diverticulitis,Diverticulosis of colon without diverticulitis (finding)",Diverticulosis of colon without diverticulitis
+747,C1303147,"Not yet walking,Not yet walking (finding)",Not yet walking
+748,C1274581,"Decorative tattoo,Decorative tattoo of skin,Decorative tattoo of skin (finding)",Decorative tattoo of skin
+749,C0231353,"Alteration in nutrition: less than body requirements,Alteration in nutrition: less than body requirements (finding),Body nutrition deficit,Imbalanced nutrition: Less than body requirements",Alteration in nutrition: less than body requirements
+750,C2047937,"Ill defined condition,Ill-defined condition,Ill-defined disease,Ill-defined disease (finding)",Ill-defined disease
+751,C0231367,"Activity intolerance,Activity intolerance (finding)",Activity intolerance
+752,C0232288,"Chest pain on exertion,Chest pain on exertion (finding)",Chest pain on exertion
+753,C2364040,"Ineffective thermoregulation,Ineffective thermoregulation (finding),Thermoregulation impairment",Ineffective thermoregulation
+754,C0337678,"Drinks heavily,Heavy drinker,Heavy drinker (finding)",Heavy drinker
+755,C0277725,"Victim of physical assault,Victim of physical assault (finding)",Victim of physical assault
+756,C0559470,"Allergy to peanuts,Allergy to peanuts (disorder)",Allergy to peanut
+757,C0582229,"Decreased range of cervical spine movement,Decreased range of cervical spine movement (finding)",Decreased range of cervical spine movement
+758,C1998986,"Deficient knowledge,Deficient knowledge (finding),Knowledge deficit",Deficient knowledge
+759,C0152226,"Defective lid closure,Lagophthalmos,Lagophthalmos,Lagophthalmos (finding),Poor closure eyelids,Unspecified lagophthalmos",Lagophthalmos
+760,C0221184,"Bitemporal hemianopia,Bitemporal hemianopia (finding)",Bitemporal hemianopia
+761,C0421565,"Repeat prescription card duplicate issue,Repeat prescription card duplicate issue (finding)",Repeat prescription card duplicate issue
+762,C1384674,"Caesarean delivery,Cesarean delivery,Deliveries by caesarean,Deliveries by cesarean,Deliveries by cesarean (finding)",Deliveries by cesarean
+763,C0236078,"Pain in scrotum,Pain in scrotum (finding),Pain of scrotum,Scrotal pain,Scrotal pain",Pain in scrotum
+764,C0030201,"Postoperative pain,Postoperative pain (finding),Postoperative pain NOS",Postoperative pain
+765,C0231513,"Nocturnal muscle spasm,Nocturnal muscle spasm (finding)",Nocturnal muscle spasm
+766,C1291748,"Decreased estrogen level,Decreased estrogen level (finding),Decreased oestrogen level",Decreased estrogen level
+767,C0150044,"Total incontinence,Total urinary incontinence,Total urinary incontinence (finding),Urinary incontinence with continuous leakage",Total urinary incontinence
+768,C0426623,"Excessive upper gastrointestinal gas,Excessive upper gastrointestinal gas (finding)",Excessive upper gastrointestinal gas
+769,C0151379,"Rheumatoid factor positive,Rheumatoid factor positive (finding)",Rheumatoid factor positive
+770,C0424101,"General inattentiveness,Inattention,Inattention (finding)",Inattention
+771,C0425779,"Breasts asymmetrical,Breasts asymmetrical (finding)",Breasts asymmetrical
+772,C0014724,"Belching,Belching,Belching symptom,Belching symptom (finding),Burping,Burping,Burping (finding),Eructation,Eructation,Eructation,Eructation, function,Eructation, function (observable entity)",Burping
+773,C0015582,"Family disruption,Family disruption (finding)",Family disruption
+774,C0281981,"Lump of skin,Mass of skin,Mass of skin (finding)",Mass of skin
+775,C0239598,"Swelling of finger,Swelling of finger (finding),Swollen finger",Swelling of finger
+776,C0239505,"Lump on face,Lump on face (finding),Mass of face",Lump on face
+777,C0241394,"Pain in thumb,Pain in thumb (finding)",Pain in thumb
+778,C0578040,"Lesion of lip,Lesion of lip (finding)",Lesion of lip
+779,C0578454,"Neck swelling,Neck swelling (finding)",Neck swelling
+780,C0342419,"Mass of pituitary,Mass of pituitary (finding),Pituitary mass",Mass of pituitary
+781,C0035312,"Colloid bodies in retina,Retinal drusen,Retinal drusen (finding)",Retinal drusen
+782,C0085271,"Deliberate self-harm,SIB - Self-injurious behavior,SIB - Self-injurious behaviour,Self damage,Self-abusive behavior,Self-abusive behaviour,Self-destructive behavior,Self-destructive behaviour,Self-harm,Self-injurious behavior,Self-injurious behavior (finding),Self-injurious behaviour",Self-injurious behavior
+783,C0427144,"Toe walking,Toe-walking gait,Toe-walking gait (finding)",Toe-walking gait
+784,C2919545,"Irregular bowel habits,Irregular bowel habits (finding)",Irregular bowel habits
+785,C0948657,"Elevated cancer antigen 125,Increased cancer antigen 125,Increased cancer antigen 125 (finding),Raised cancer antigen 125",Increased cancer antigen 125
+786,C2919296,"Clotting time above reference range,Clotting time above reference range (finding)",Clotting time above reference range
+787,C2316723,"Chronic pain due to injury,Chronic pain due to injury (finding)",Chronic pain due to injury
+788,C1853729,"Weakness of vocal cord,Weakness of vocal cord (finding)",Weakness of vocal cord
+789,C2919404,"Low density lipoprotein cholesterol above reference range,Low density lipoprotein cholesterol above reference range (finding),Raised low density lipoprotein cholesterol",Low density lipoprotein cholesterol above reference range
+790,C0751186,"Orthostatic headache,Orthostatic headache (finding)",Orthostatic headache
+791,C0025322,"Premature menopause,Premature menopause,Premature menopause (finding),Premature menopause NOS",Premature menopause
+792,C0302142,"Deformity,Deformity,Deformity (finding),Deformity (morphologic abnormality)",Deformity
+793,C0232854,"Slowing of urinary stream,Slowing of urinary stream (finding)",Slowing of urinary stream
+794,C0241374,"Pain in thigh,Pain in unspecified thigh,Thigh pain,Thigh pain (finding)",Thigh pain
+795,C0686724,"Victim of terrorism,Victim of terrorism (finding)",Victim of terrorism
+796,C0558116,"Altered body image,Altered body image (finding),Body image disturbance,Distorted body image,Distorted body image (finding),Disturbed body image",Distorted body image
+797,C0085619,"Breathlessness lying flat,Orthopnea,Orthopnea,Orthopnea (finding),Orthopnoea",Orthopnea
+798,C0149671,"Dribbling of urine,Dribbling of urine (finding)",Dribbling of urine
+799,C0278097,"Abnormal male sexual function,Abnormal male sexual function (finding),Male sexual dysfunction",Abnormal male sexual function
+800,C0267771,"Mass of retroperitoneal structure,Mass of retroperitoneal structure (finding),Retroperitoneal mass",Mass of retroperitoneal structure
+801,C0231274,"Gets overheated,Intolerant of heat,Intolerant of heat (finding),Sensitive to heat",Intolerant of heat
+802,C0038238,"Chronic steatorrhea,Chronic steatorrhea (disorder),Chronic steatorrhoea,Fatty stool,Fatty stool (finding),Steatorrhea,Steatorrhoea",Fatty stool
+803,C0559567,"Contusion of multiple sites,Contusion of multiple sites (disorder),Multiple bruising,Multiple bruising (finding)",Multiple bruising
+804,C0458101,"Cervicogenic headache,Cervicogenic headache (finding)",Cervicogenic headache
+805,C0427285,"Clicking hip,Clicking hip,Clicking hip (finding)",Clicking hip
+806,C0581386,"Chronic anxiety,Chronic anxiety (finding)",Chronic anxiety
+807,C0556389,"Long-term drug misuser,Long-term drug misuser (finding)",Long-term drug misuser
+808,C3714756,"Intellectual developmental disorder,Intellectual disability,Intellectual disability (disorder),Intellectual functioning disability,Intellectual functioning disability (finding),Intellectual limitation,Mental retardation",Intellectual functioning disability
+809,C0420948,"A/N U/S scan abnormal,Abnormal ultrasonic finding on antenatal screening of mother,Abnormal ultrasonic finding on antenatal screening of mother,Antenatal ultrasound scan abnormal,Antenatal ultrasound scan abnormal (finding)",Antenatal ultrasound scan abnormal
+810,C0476369,"Abnormal echocardiogram NOS,Echocardiogram abnormal,Echocardiogram abnormal (finding)",Echocardiogram abnormal
+811,C0020437,"Hypercalcaemia,Hypercalcaemia syndrome,Hypercalcemia,Hypercalcemia,Hypercalcemia (disorder),Hypercalcemia syndrome,Raised serum calcium level,Raised serum calcium level (finding)",Raised serum calcium level
+812,C0522347,"Ear pressure sensation,Ear pressure sensation (finding)",Ear pressure sensation
+813,C0522347,"Ear pressure sensation,Ear pressure sensation (finding)",Sensation of pressure in ear
+814,C0423610,"Female genital pain,Pain in female genitalia,Pain in female genitalia (finding)",Pain in female genitalia
+815,C0178405,"Ineffective infant feeding pattern,Ineffective infant feeding pattern (finding)",Ineffective infant feeding pattern
+816,C1281551,"Gastrostomy present,Gastrostomy present (finding)",Gastrostomy present
+817,C0563276,"Left sided abdominal pain,Left sided abdominal pain (finding)",Left sided abdominal pain
+818,C0576091,"Deformity of knee joint,Deformity of knee joint (finding)",Deformity of knee joint
+819,C0575152,"Temporomandibular joint tender,Tenderness of temporomandibular joint,Tenderness of temporomandibular joint (finding)",Tenderness of temporomandibular joint
+820,C0241716,"Mass of vulva,Mass of vulva (finding)",Mass of vulva
+821,C0271193,"Peripheral visual field defect,Peripheral visual field defect,Peripheral visual field defect (finding)",Peripheral visual field defect
+822,C0003128,"Anovulation,Anovulation (finding)",Anovulation
+823,C0240140,"Labial adhesions,Labial adhesions (finding)",Labial adhesions
+824,C0423124,"Dermatochalasis,Excess skin of eyelid,Excess skin of eyelid (finding)",Excess skin of eyelid
+825,C0151602,"Facial swelling,Facial swelling (finding),Swollen face",Facial swelling
+826,C0458069,"Hepatitis A immune,Hepatitis A immune (finding)",Hepatitis A immune
+827,C0016205,"Flatulence, eructation and gas pain,Flatulence, eructation and gas pain (finding)","Flatulence, eructation and gas pain"
+828,C1998380,"Localised superficial swelling of skin,Localized superficial swelling of skin,Localized superficial swelling of skin (finding)",Localized superficial swelling of skin
+829,C2584400,"Cardiovascular stress test abnormal,Cardiovascular stress test abnormal (finding)",Cardiovascular stress test abnormal
+830,C1997795,"Mass of shoulder region,Mass of shoulder region (finding)",Mass of shoulder region
+831,C0159127,"Nonspecific tuberculin test reaction,Nonspecific tuberculin test reaction (finding)",Nonspecific tuberculin test reaction
+832,C2349685,"Atypical squamous cells of undetermined significance on vaginal Papanicolaou smear,Atypical squamous cells of undetermined significance on vaginal Papanicolaou smear (finding)",Atypical squamous cells of undetermined significance on vaginal Papanicolaou smear
+833,C2919160,"Carcinoembryonic antigen above reference range,Carcinoembryonic antigen above reference range (finding),High carcinoembryonic antigen level",Carcinoembryonic antigen above reference range
+834,C0151826,"Retrosternal chest pain,Retrosternal pain,Retrosternal pain (finding)",Retrosternal pain
+835,C0522224,"Palsy,Paralysis,Paralysis (finding)",Paralysis
+836,C0424295,"HA - Hyperactivity,Hyperactive behavior,Hyperactive behavior (finding),Hyperactive behaviour,Hyperkinesis,Increased purposeful goal-directed activity",Hyperactive behavior
+837,C2919240,"Epstein-Barr virus antibody in serum positive,Epstein-Barr virus antibody in serum positive (finding),Epstein-Barr virus serostatus positive",Epstein-Barr virus antibody in serum positive
+838,C0542571,"Edema of face,Edema of face (finding),Oedema of face",Edema of face
+839,C2174297,"Mass of foot,Mass of foot (finding)",Mass of foot
+840,C2911574,"Dependence on ventilator,Dependence on ventilator,Dependence on ventilator (finding)",Dependence on ventilator
+841,C2919177,"Fussy toddler,Fussy toddler (finding)",Fussy toddler
+842,C2732574,"Autoantibody screening for celiac disease positive,Autoantibody screening for celiac disease positive (finding),Autoantibody screening for coeliac disease positive,Celiac disease autoantibody profile positive,Coeliac disease autoantibody profile positive",Autoantibody screening for celiac disease positive
+843,C0026603,"Motion sickness,Motion sickness,Motion sickness (finding),Riders' vertigo,Travel sickness,Travel sickness",Motion sickness
+844,C1562306,"Cervicovaginal cytology: HGSIL or carcinoma,Cervicovaginal cytology: HSIL or carcinoma,Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma,Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma (finding)",Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma
+845,C0232519,"Abnormal deglutition,Abnormal deglutition (finding),Abnormal swallowing",Abnormal deglutition
+846,C0232502,"Umbilical discharge,Umbilical discharge (finding)",Umbilical discharge
+847,C0152447,"Observation of urethral discharge,UD - Urethral discharge,Urethral discharge,Urethral discharge,Urethral discharge (finding),Urethral discharge, unspecified,Urethrorrhea,Urethrorrhea,Urethrorrhoea",Urethral discharge
+848,C0085624,"Burning sensation,Burning sensation (finding)",Burning sensation
+849,C0152174,"Algopsychalia,Psychalgia,Psychalgia (finding),Psychogenic pain,Somatoform pain disorder,Somatoform pain disorder (disorder)",Psychalgia
+850,C3662294,"Bowing deformity of lower limb,Bowing deformity of lower limb (finding)",Bowing deformity of lower limb
+851,C0155197,"Paralytic lagophthalmos,Paralytic lagophthalmos,Paralytic lagophthalmos (finding)",Paralytic lagophthalmos
+852,C0232071,"Aspiration of food,Aspiration of food (finding)",Aspiration of food
+853,C0032816,"Post-traumatic headache,Post-traumatic headache,Post-traumatic headache NOS,Post-traumatic headache, unspecified,Posttraumatic headache,Posttraumatic headache (finding)",Posttraumatic headache
+854,C0034642,"Rales,Rales,Respiratory crackles,Respiratory crackles (finding),Respiratory crepitations",Respiratory crackles
+855,C0235198,"Concentration impairment,Unable to concentrate,Unable to concentrate (finding)",Unable to concentrate
+856,C0232286,"Precordial pain,Precordial pain,Precordial pain (finding)",Precordial pain
+857,C0019521,"Finding of hiccoughs,Hiccough,Hiccough,Hiccoughs,Hiccoughs (finding),Hiccups,Observation of hiccoughs,Singultus",Hiccoughs
+858,C0001807,"Aggression,Aggressive behavior,Aggressive behavior (finding),Aggressive behaviour",Aggressive behavior
+859,C0451805,"Abnormal biochemical finding on antenatal screening of mother,Abnormal biochemical finding on antenatal screening of mother,Abnormal biochemical finding on antenatal screening of mother (finding)",Abnormal biochemical finding on antenatal screening of mother
+860,C0404889,"Habitual aborter - not delivered,Habitual aborter - not delivered (finding),History of recurrent miscarriage - not delivered",Habitual aborter - not delivered
+861,C0458228,"Acromioclavicular joint pain,Acromioclavicular joint pain (finding),Arthralgia of acromioclavicular joint",Acromioclavicular joint pain
+862,C0557875,"Tired,Tired (finding)",Tired
+863,C0231655,"Pain in scapula,Scapulalgia,Scapulalgia (finding),Scapulodynia,Shoulder blade pain",Scapulalgia
+864,C0011253,"Delusional ideas,Delusional thoughts,Delusions,Delusions (finding)",Delusions
+865,C0278152,"Facial hemispasm,Hemifacial spasm,Hemifacial spasm (finding)",Hemifacial spasm
+866,C0859897,"Vocal cord dysfunction,Vocal cord dysfunction (finding)",Vocal cord dysfunction
+867,C0234632,"Reduced visual acuity,Reduced visual acuity (finding)",Reduced visual acuity
+868,C0184543,"Nonadherence with therapeutic regimen,Noncompliance with therapeutic regimen,Noncompliance with therapeutic regimen (finding),Noncompliance: therapeutic regimen",Noncompliance with therapeutic regimen
+869,C0425770,"Breast finding,Breast finding (finding),Breast observations",Breast finding
+870,C0151878,"Increased QT interval,Prolonged QT interval,Prolonged QT interval (finding)",Prolonged QT interval
+871,C0587170,"Accommodation unsuitable,Housing problem,Housing unsatisfactory,Housing unsatisfactory (finding),Inadequate housing",Housing unsatisfactory
+872,C0581025,"Requires a tetanus booster,Requires a tetanus booster (finding)",Requires a tetanus booster
+873,C0233308,"SRM - Spontaneous rupture of membranes,SROM - Spontaneous rupture of membranes,Spontaneous rupture of fetal membranes,Spontaneous rupture of foetal membranes,Spontaneous rupture of membranes,Spontaneous rupture of membranes (finding)",Spontaneous rupture of membranes
+874,C0436515,"Barium enema abnormal,Barium enema abnormal (finding)",Barium enema abnormal
+875,C0580382,"Autoantibody titer positive,Autoantibody titer positive (finding),Autoantibody titre positive",Autoantibody titer positive
+876,C0151315,"NS - Neck stiffness,Neck stiffness,Stiff neck,Stiff neck (finding)",Stiff neck
+877,C0240717,"Perineal pain,Perineal pain (finding)",Perineal pain
+878,C0576404,"Amputated - transfemoral,Amputated above knee,Amputated above knee (finding)",Amputated above knee
+879,C0574948,"Finger joint active,Finger joint inflamed,Finger joint inflamed (finding)",Finger joint inflamed
+880,C0235656,"Lesion of cervix,Lesion of cervix (finding)",Lesion of cervix
+881,C0155534,"Objective tinnitus,Objective tinnitus (finding)",Objective tinnitus
+882,C0423674,"Pain in cervical spine,Pain in cervical spine (finding)",Pain in cervical spine
+883,C0457084,"Swollen toe,Toe swelling,Toe swelling (finding)",Toe swelling
+884,C0344226,"Lithium monitoring,Lithium monitoring (finding)",Lithium monitoring
+885,C1850534,"Edema, generalized,Edema, generalized (finding),Generalized edema,Oedema, generalised","Edema, generalized"
+886,C0262174,"Ear problem,Ear problem (finding)",Ear problem
+887,C0151907,"Discoloration of skin,Discoloration of skin (finding),Discolouration of skin,Dyschromia",Discoloration of skin
+888,C0278151,"Facial spasm,Facial spasm (finding)",Facial spasm
+889,C0853225,"INR raised,International Normalised Ratio (INR) raised,International Normalised Ratio raised,International Normalized Ratio (INR) raised,International Normalized Ratio raised,International Normalized Ratio raised (finding)",International Normalized Ratio raised
+890,C0239511,"Numbness of face,Numbness of face (finding)",Numbness of face
+891,C0586387,"Unfavorable living conditions,Unfavourable living conditions,Unsatisfactory living conditions,Unsatisfactory living conditions (finding)",Unsatisfactory living conditions
+892,C0422987,"Loss of part of visual field,Loss of part of visual field (finding)",Loss of part of visual field
+893,C0240873,"Rectal lump,Rectal mass,Rectal mass (finding)",Rectal mass
+894,C0426348,"Adhesions of foreskin,Adhesions of foreskin (finding)",Adhesions of foreskin
+895,C0427036,"Hand joint stiff,Hand joint stiff (finding)",Hand joint stiff
+896,C2919216,"Excessive selfcriticism,Excessive selfcriticism (finding)",Excessive self-criticism
+897,C0240991,"Sensory ataxia,Sensory ataxia (finding)",Sensory ataxia
+898,C2919629,"Cytomegalovirus antibody in serum negative,Cytomegalovirus antibody in serum negative (finding),Cytomegalovirus serostatus negative",Cytomegalovirus antibody in serum negative
+899,C2919237,"Anovulatory amenorrhea,Anovulatory amenorrhea (finding),Anovulatory amenorrhoea",Anovulatory amenorrhea
+900,C2584784,"Thallium stress test abnormal,Thallium stress test abnormal (finding)",Thallium stress test abnormal
+901,C0033038,"Ejaculates too soon,Ejaculatio praecox,Premature ejaculation,Premature ejaculation,Premature ejaculation (finding),Premature orgasm - male",Premature ejaculation
+902,C0237284,"Unresponsive,Unresponsive (finding)",Unresponsive
+903,C0151746,"Abnormal renal function,Abnormal renal function (finding)",Abnormal renal function
+904,C1299932,"Head tilt,Head tilt (finding)",Head tilt
+905,C1410927,"Angle narrow,Narrow angle,Narrow angle (finding),Narrow angle anterior chamber",Narrow angle
+906,C1562305,"Cervicovaginal cytology normal or benign,Cervicovaginal cytology normal or benign (finding)",Cervicovaginal cytology normal or benign
+907,C0240671,"Partial thromboplastin time increased,Partial thromboplastin time increased (finding)",Partial thromboplastin time increased
+908,C0231417,"Alteration in parenting,Alteration in parenting (finding),Parenting alteration",Alteration in parenting
+909,C0151889,"Exaggeration of the deep reflexes,Hyperreflexia,Hyperreflexia (finding),Increased tendon reflexes",Hyperreflexia
+910,C0002957,"Anger,Angry,Feeling angry,Feeling angry (finding)",Feeling angry
+911,C0277730,"Sexual assault victim,Victim of sexual aggression,Victim of sexual aggression (finding)",Victim of sexual aggression
+912,C0023066,"Laryngeal spasm,Laryngeal spasm,Laryngeal spasm (disorder),Laryngismus,Laryngismus (finding),Laryngismus (stridulus),Laryngospasm",Laryngismus
+913,C0700590,"Diaphoresis,Diaphoresis,Excessive sweating,Excessive sweating,Excessive sweating (finding),Profuse sweating,Sweating profusely",Excessive sweating
+914,C0426636,"Defaecation urgency,Defecation urgency,Fecal urgency,Fecal urgency,Precipitancy of defaecation,Precipitancy of defecation,Urgent desire for stool,Urgent desire for stool (finding)",Urgent desire for stool
+915,C0424641,"Decrease in height,Decrease in height (finding),Loss of height",Decrease in height
+916,C0473389,"False premature labor,False premature labour,Threatened premature labor - not delivered,Threatened premature labor - not delivered (finding),Threatened premature labour - not delivered",Threatened premature labor - not delivered
+917,C0560024,"Swelling of eyelid,Swelling of eyelid (finding)",Swelling of eyelid
+918,C0149715,"HVS - Hyperventilation syndrome,Hyperventilation syndrome,Psychogenic hyperventilation,Psychogenic hyperventilation (finding),Psychogenic overbreathing",Psychogenic hyperventilation
+919,C1578545,"Unprotected coitus,Unprotected intercourse,Unprotected sexual intercourse,Unprotected sexual intercourse (finding)",Unprotected sexual intercourse
+920,C0556281,"Fine motor impairment,Fine motor impairment (finding)",Fine motor impairment
+921,C0238738,"Muscle spasm of back,Spasm of back muscles,Spasm of back muscles (finding)",Spasm of back muscles
+922,C0520962,"Localised pain,Localized pain,Localized pain (finding)",Localized pain
+923,C2922974,"Polypharmacy,Polypharmacy (finding)",Polypharmacy
+924,C0232698,"Abnormal defaecation,Abnormal defecation,Abnormal defecation (finding)",Abnormal defecation
+925,C0438142,"Abnormal urinalysis,Abnormal urinalysis (finding),Urinalysis = abnormal,Urine screening abnormal,Urine screening abnormal (finding)",Urine screening abnormal
+926,C0436449,"Mammography normal,Mammography normal (finding)",Mammography normal
+927,C0580094,"School difficulties,School problem,School problem (finding)",School problem
+928,C0425295,"Light cigarette smoker (1-9 cigs/day),Light cigarette smoker (1-9 cigs/day) (finding)",Light cigarette smoker (1-9 cigs/day)
+929,C0232849,"Bladder pain,Bladder pain (finding),Urinary bladder pain,Vesical pain",Bladder pain
+930,C0575503,"Pain of sternum,Pain of sternum (finding)",Pain of sternum
+931,C1844820,"Hypermobility of joint,Range of joint movement increased,Range of joint movement increased (finding)",Range of joint movement increased
+932,C0574953,"Foot joint active,Foot joint inflamed,Foot joint inflamed (finding)",Foot joint inflamed
+933,C0239954,"Deformity of hip joint,Deformity of hip joint (finding)",Deformity of hip joint
+934,C0151611,"Abnormal electroencephalogram [EEG],EEG abnormal,Electroencephalogram abnormal,Electroencephalogram abnormal (finding)",Electroencephalogram abnormal
+935,C0575695,"Elbow joint instability,Elbow joint unstable,Elbow joint unstable (finding)",Elbow joint unstable
+936,C0577215,"Lesion of testis,Lesion of testis (finding)",Lesion of testis
+937,C4551520,"Cerebellar tremor,Intention tremor,Intention tremor,Intention tremor (finding),Volitional tremor",Intention tremor
+938,C0231613,"Occipital headache,Occipital headache (finding)",Occipital headache
+939,C0585013,"Old healed fracture of bone,Old healed fracture of bone (finding)",Old healed fracture of bone
+940,C0577659,"Axillary pain,Pain in axilla,Pain in axilla (finding)",Pain in axilla
+941,C0582208,"Decreased range of knee movement,Decreased range of knee movement (finding)",Decreased range of knee movement
+942,C0577903,"Lesion of vocal cord,Lesion of vocal cord (finding)",Lesion of vocal cord
+943,C0577887,"Nasal sinus problem,Nasal sinus problem (finding)",Nasal sinus problem
+944,C0008489,"Chorea,Chorea (finding),Chorea NOS,Choreic movement,Choreiform movement",Chorea
+945,C0428033,"Hepatitis B immune,Hepatitis B immune (finding)",Hepatitis B immune
+946,C0032968,"Teenage pregnancy,Teenage pregnancy (finding)",Teenage pregnancy
+947,C0403668,"PMD - Post-micturition dribbling,Post-micturition dribbling,Post-micturition incontinence,Post-micturition incontinence (finding)",Post-micturition incontinence
+948,C0206064,"Cardiac syndrome X,Cardiac syndrome X (finding),Chest pain with normal coronary angiography",Cardiac syndrome X
+949,C0424593,"Attacks of weakness,Attacks of weakness (finding)",Attacks of weakness
+950,C0424853,"Lump on finger,Lump on finger (finding),Mass of finger",Lump on finger
+951,C0008301,"Choking,Choking (finding)",Choking
+952,C0020505,"Excessive eating,Excessive eating,Excessive eating - polyphagia,Excessive eating - polyphagia (finding),Excessive oral food intake,Gluttony,Hyperalimentation NOS,Hyperphagia,Overeating,Overeating (finding),Overeats,Polyphagia,Polyphagia",Excessive eating - polyphagia
+953,C0234379,"Resting tremor,Resting tremor (finding)",Resting tremor
+954,C0239957,"Hip stiff,Hip stiff (finding)",Hip stiff
+955,C0240129,"Knee stiff,Knee stiff (finding)",Knee stiff
+956,C0241057,"Burning sensation of skin,Burning sensation of skin (finding)",Sensation of burning of skin
+957,C0314719,"Dry eyes,Dry eyes (finding)",Dry eye
+958,C0270736,"Essential tremor,Essential tremor,Essential tremor (disorder)",Essential tremor
+959,C0393615,"Familial tremor,Hereditary essential tremor,Hereditary essential tremor (disorder)",Benign familial tremor
+960,C0423004,"Hyperaemia of surface of eye,Hyperemia of surface of eye,Injection of surface of eye,Injection of surface of eye (finding)",Injection of surface of eye
+961,C0544755,"Bandy legged,Bow leg,Bow legged,Bow legs,Genu varum,Genu varus,Knee joint varus deformity,Knee joint varus deformity (finding)",Bowing of leg
+962,C0423661,"Arthralgia of the lower leg,Arthralgia of the lower leg (finding)",Arthralgia of the lower leg
+963,C0581394,"Swelling of lower limb,Swelling of lower limb (finding)",Swollen legs
+964,C0438215,"Laboratory finding abnormal,Laboratory finding abnormal (navigational concept),Laboratory test result abnormal,Laboratory test result abnormal (situation)",Laboratory finding abnormal (navigationa
+965,C0546884,"Depletion of volume of plasma AND/OR extracellular fluid,Fluid depletion,Fluid volume deficit,Fluid volume depletion,Hypovolaemia,Hypovolemia,Hypovolemia,Hypovolemia (disorder),Sodium and water depletion,Volume depletion,Volume depletion,Volume depletion, unspecified",Fluid volume deficit
+966,C0011570,"Depression NOS,Monopolar depression NOS",Depression
+967,C0017650,"Globus hystericus,Globus hystericus (finding),Globus pharyngeus,Globus syndrome,Idiopathic globus",Globus hystericus
+968,C0332563,"Papula,Papulae,Papule,Papule,Papule (finding),Papule (morphologic abnormality)",Papule
+969,C2919460,Pain in ankle and joints of foot,Joint pain in ankle and foot
+970,C0264156,"Acquired unequal leg length,Acquired unequal leg length (disorder)",Acquired unequal leg length
+971,C0005858,Bloodshot eye,Bloodshot eye
+972,C0156408,Excessive bleeding in the premenopausal period,Premenopausal menorrhagia
+973,C0232534,"Globus sensation,Globus sensation (finding)",Globus sensation
