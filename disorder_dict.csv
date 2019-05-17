@@ -17,7 +17,7 @@
 15,C0029408,"Degenerative arthritis,Degenerative arthropathy,Degenerative joint disease,Degenerative polyarthritis,Degenerative polyarthritis (disorder),Hypertrophic arthritis,Hypertrophic polyarthritis,OA - Osteoarthritis,OA - Osteoarthrosis,Osteoarthritis,Osteoarthritis (M15-M19),Osteoarthritis (disorder),Osteoarthritis NOS,Osteoarthritis, unspecified site,Osteoarthrosis",Osteoarthritis
 16,C0002871,"Anaemia,Anemia,Anemia (disorder),Anemia, unspecified",Anemia
 17,C0042029,"UTI - Urinary tract infection,Urinary tract infection,Urinary tract infection, site not specified,Urinary tract infectious disease,Urinary tract infectious disease (disorder)",Urinary tract infectious disease
-18,C0024117,"CAFL - Chronic airflow limitation,CAL - Chronic airflow limitation,COAD - Chronic obstructive airways disease,COLD - Chronic obstructive lung disease,COPD - Chronic obstructive pulmonary disease,Chronic airflow limitation,Chronic airway disease,Chronic airway obstruction,Chronic irreversible airway obstruction,Chronic obstructive airway disease,Chronic obstructive airway disease NOS,Chronic obstructive lung disease,Chronic obstructive lung disease (disorder),Chronic obstructive lung disease NOS,Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease, unspecified",Chronic obstructive lung disease
+18,C0024117,"COPD,CAFL - Chronic airflow limitation,CAL - Chronic airflow limitation,COAD - Chronic obstructive airways disease,COLD - Chronic obstructive lung disease,COPD - Chronic obstructive pulmonary disease,Chronic airflow limitation,Chronic airway disease,Chronic airway obstruction,Chronic irreversible airway obstruction,Chronic obstructive airway disease,Chronic obstructive airway disease NOS,Chronic obstructive lung disease,Chronic obstructive lung disease (disorder),Chronic obstructive lung disease NOS,Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease, unspecified",Chronic obstructive lung disease
 19,C0004238,"AF - Atrial fibrillation,Atrial fibrillation,Atrial fibrillation (disorder)",Atrial fibrillation
 20,C0032285,"Pneumonia,Pneumonia (disorder)",Pneumonia
 21,C0018802,"CCF - Congestive cardiac failure,CHF - Congestive heart failure,Congestive cardiac failure,Congestive heart disease,Congestive heart disease,Congestive heart failure,Congestive heart failure (disorder),Congestive heart failure NOS",Congestive heart failure
@@ -521,3 +521,5 @@
 519,C0339570,"Open-angle glaucoma - borderline,Open-angle glaucoma - borderline (disorder)",
 520,C0085693,"Acute appendicitis,Acute appendicitis,Acute appendicitis (disorder),Acute appendicitis NOS,Unspecified acute appendicitis",
 521,C0034951,"Disorder of refraction,Disorder of refraction (disorder),Refractive error,Unspecified disorder of refraction",
+522,,Diabetes,Diabetes NOS
+523,,Cystic Fibrosis,Cystic Fibrosis
