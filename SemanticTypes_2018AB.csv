@@ -1,0 +1,154 @@
+﻿code,semantic_type,color
+T001,Organism,lightyellow
+T002,Plant,lightyellow
+T004,Fungus,lightyellow
+T005,Virus,lightyellow
+T007,Bacterium,lightyellow
+T008,Animal,lightyellow
+T010,Vertebrate,lightyellow
+T011,Amphibian,lightyellow
+T012,Bird,lightyellow
+T013,Fish,lightyellow
+T014,Reptile,lightyellow
+T015,Mammal,lightyellow
+T016,Human,lightyellow
+T017,Anatomical Structure,lightcoral
+T018,Embryonic Structure,lightyellow
+T019,Congenital Abnormality,lightyellow
+T020,Acquired Abnormality,lightyellow
+T021,Fully Formed Anatomical Structure,lightyellow
+T022,Body System,lightcoral
+T023,"Body Part, Organ, or Organ Component",lightcoral
+T024,Tissue,lightyellow
+T025,Cell,lightyellow
+T026,Cell Component,lightyellow
+T028,Gene or Genome,lightyellow
+T029,Body Location or Region,lightcoral
+T030,Body Space or Junction,lightcoral
+T031,Body Substance,lightcoral
+T032,Organism Attribute,lightyellow
+T033,Finding,lightblue
+T034,Laboratory or Test Result,orange
+T037,Injury or Poisoning,lightgreen
+T038,Biologic Function,lightyellow
+T039,Physiologic Function,lightcoral
+T040,Organism Function,lightcoral
+T041,Mental Process,lightcoral
+T042,Organ or Tissue Function,lightyellow
+T043,Cell Function,lightyellow
+T044,Molecular Function,lightyellow
+T045,Genetic Function,lightyellow
+T046,Pathologic Function,lightgreen
+T047,Disease or Syndrome,lightgreen
+T048,Mental or Behavioural Dysfunction,lightgreen
+T049,Cell or Molecular Dysfunction,lightyellow
+T050,Experimental Model of Disease,lightyellow
+T051,Event,lightyellow
+T052,Activity,lightyellow
+T053,Behavior,lightyellow
+T054,Social Behavior,lightyellow
+T055,Individual Behavior,lightyellow
+T056,Daily or Recreational Activity,lightyellow
+T057,Occupational Activity,lightyellow
+T058,Health Care Activity,lavender
+T059,Laboratory Procedure,lavender
+T060,Diagnostic Procedure,lavender
+T061,Therapeutic or Preventive Procedure,lavender
+T062,Research Activity,lightyellow
+T063,Molecular Biology Research Technique,lightyellow
+T064,Governmental or Regulatory Activity,lightyellow
+T065,Educational Activity,lightyellow
+T066,Machine Activity,lightyellow
+T067,Phenomenon or Process,lightyellow
+T068,Human-caused Phenomenon or Process,lightyellow
+T069,Environmental Effect of Humans,lightyellow
+T070,Natural Phenomenon or Process,lightyellow
+T071,Entity,lightyellow
+T072,Physical Object,lightyellow
+T073,Manufactured Object,lightyellow
+T074,Medical Device,lavender
+T075,Research Device,lightyellow
+T077,Conceptual Entity,lightyellow
+T078,Idea or Concept,lightyellow
+T079,Temporal Concept,lightyellow
+T080,Qualitative Concept,lightyellow
+T081,Quantitative Concept,lightyellow
+T082,Spatial Concept,lightyellow
+T083,Geographic Area,lightyellow
+T085,Molecular Sequence,lightyellow
+T086,Nucleotide Sequence,lightyellow
+T087,Amino Acid Sequence,lightyellow
+T088,Carbohydrate Sequence,lightyellow
+T089,Regulation or Law,lightyellow
+T090,Occupation or Discipline,lightyellow
+T091,Biomedical Occupation or Discipline,lightyellow
+T092,Organization,lightyellow
+T093,Health Care Related Organization,lightyellow
+T094,Professional Society,lightyellow
+T095,Self-help or Relief Organization,lightyellow
+T096,Group,lightyellow
+T097,Professional or Occupational Group,lightyellow
+T098,Population Group,lightyellow
+T099,Family Group,lightyellow
+T100,Age Group,lightyellow
+T101,Patient or Disabled Group,lightyellow
+T102,Group Attribute,lightyellow
+T103,Chemical,lightyellow
+T104,Chemical Viewed Structurally,lightyellow
+T109,Organic Chemical,lightyellow
+T114,"Nucleic Acid, Nucleoside, or Nucleotide",lightyellow
+T116,"Amino Acid, Peptide, or Protein",lightyellow
+T120,Chemical Viewed Functionally,lightyellow
+T121,Pharmacologic Substance,lightyellow
+T122,Biomedical or Dental Material,lightyellow
+T123,Biologically Active Substance,lightyellow
+T125,Hormone,lightyellow
+T126,Enzyme,lightyellow
+T127,Vitamin,lightyellow
+T129,Immunologic Factor,lightyellow
+T130,"Indicator, Reagent, or Diagnostic Aid",lightyellow
+T131,Hazardous or Poisonous Substance,lightyellow
+T167,Substance,lightyellow
+T168,Food,lightyellow
+T169,Functional Concept,lightyellow
+T170,Intellectual Product,lightyellow
+T171,Language,lightyellow
+T184,Sign or Symptom,lightblue
+T185,Classification,lightyellow
+T190,Anatomical Abnormality,lightcoral
+T191,Neoplastic Process,lightgreen
+T192,Receptor,lightyellow
+T194,Archaeon,lightyellow
+T195,Antibiotic,lightyellow
+T196,"Element, Ion, or Isotope",lightyellow
+T197,Inorganic Chemical,lightyellow
+T200,Clinical Drug,lightyellow
+T201,Clinical Attribute,lightblue
+T203,Drug Delivery Device,lightyellow
+T204,Eukaryote,lightyellow
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
