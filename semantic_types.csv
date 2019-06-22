@@ -1,27 +1,27 @@
 ﻿code,semantic_type,color,color_hex
-T029,Body Location or Region,red,#FF0000
-T023,"Body Part, Organ or Organ Component",red,#FF0000
-T031,Body Substance,red,#FF0000
-T060,Diagnostic Procedure,purple,#800080
-T047,Disease or Syndrome,green,#008000
-T074,Medical Device,purple,#800080
-T200,Clinical Drug,yellow,#FFFF00
-T203,Drug Delivery Device,yellow,#FFFF00
-T033,Finding,blue,#0000FF
-T184,Sign or Symptom,blue,#0000FF
-T034,Laboratory or Test Result,orange,#FFA500
-T058,Health Care Activity,purple,#800080
-T059,Laboratory Procedure,purple,#800080
-T037,Injury or Poisoning,green,#008000
-T061,Therapeutic or Preventive Procedure,purple,#800080
-T048,Mental or Behavioural Dysfunction,green,#008000
-T046,Pathologic Function,green,#008000
-T121,Pharmacologic Substance,yellow,#FFFF00
-T201,Clinical Attribute,blue,#0000FF
-T130,"Indicator, Reagent, or Diagnostic Aid",yellow,#FFFF00
-T195,Antibiotic,yellow,#FFFF00
-T039,Physiologic Function,red,#FF0000
-T040,Organism Function,red,#FF0000
-T041,Mental Process,red,#FF0000
-T170,Intellectual Product,yellow,#FFFF00
-T191,Neoplastic Process,green,#008000
+T029,Body Location or Region,red,FFE4E1
+T023,"Body Part, Organ or Organ Component",red,FFE4E1
+T031,Body Substance,red,FFE4E1
+T060,Diagnostic Procedure,purple,#FFF0F5
+T047,Disease or Syndrome,green,#F0FFF0
+T074,Medical Device,purple,#FFF0F5
+T200,Clinical Drug,yellow,#FFFFF0
+T203,Drug Delivery Device,yellow,#FFFFF0
+T033,Finding,blue,#F0FFFF
+T184,Sign or Symptom,blue,#F0FFFF
+T034,Laboratory or Test Result,orange,#FAEBD7
+T058,Health Care Activity,purple,#FFF0F5
+T059,Laboratory Procedure,purple,#FFF0F5
+T037,Injury or Poisoning,green,#F0FFF0
+T061,Therapeutic or Preventive Procedure,purple,#FFF0F5
+T048,Mental or Behavioural Dysfunction,green,#F0FFF0
+T046,Pathologic Function,green,#F0FFF0
+T121,Pharmacologic Substance,yellow,#FFFFF0
+T201,Clinical Attribute,blue,#F0FFFF
+T130,"Indicator, Reagent, or Diagnostic Aid",yellow,#FFFFF0
+T195,Antibiotic,yellow,#FFFFF0
+T039,Physiologic Function,red,FFE4E1
+T040,Organism Function,red,FFE4E1
+T041,Mental Process,red,FFE4E1
+T170,Intellectual Product,yellow,#FFFFF0
+T191,Neoplastic Process,green,#F0FFF0
