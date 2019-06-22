@@ -1,27 +1,27 @@
-﻿code,semantic_type,,color
-T029,Body Location or Region,,red
-T023,"Body Part, Organ or Organ Component",,red
-T031,Body Substance,,red
-T060,Diagnostic Procedure,,purple
-T047,Disease or Syndrome,,green
-T074,Medical Device,,purple
-T200,Clinical Drug,,yellow
-T203,Drug Delivery Device,,yellow
-T033,Finding,,blue
-T184,Sign or Symptom,,blue
-T034,Laboratory or Test Result,,orange
-T058,Health Care Activity,,purple
-T059,Laboratory Procedure,,purple
-T037,Injury or Poisoning,,green
-T061,Therapeutic or Preventive Procedure,,purple
-T048,Mental or Behavioural Dysfunction,,green
-T046,Pathologic Function,,green
-T121,Pharmacologic Substance,,yellow
-T201,Clinical Attribute,,blue
-T130,"Indicator, Reagent, or Diagnostic Aid",,yellow
-T195,Antibiotic,,yellow
-T039,Physiologic Function,,red
-T040,Organism Function,,red
-T041,Mental Process,,red
-T170,Intellectual Product,,yellow
-T191,Neoplastic Process,,green
+﻿code,semantic_type,color
+T029,Body Location or Region,red
+T023,"Body Part, Organ or Organ Component",red
+T031,Body Substance,red
+T060,Diagnostic Procedure,purple
+T047,Disease or Syndrome,green
+T074,Medical Device,purple
+T200,Clinical Drug,yellow
+T203,Drug Delivery Device,yellow
+T033,Finding,blue
+T184,Sign or Symptom,blue
+T034,Laboratory or Test Result,orange
+T058,Health Care Activity,purple
+T059,Laboratory Procedure,purple
+T037,Injury or Poisoning,green
+T061,Therapeutic or Preventive Procedure,purple
+T048,Mental or Behavioural Dysfunction,green
+T046,Pathologic Function,green
+T121,Pharmacologic Substance,yellow
+T201,Clinical Attribute,blue
+T130,"Indicator, Reagent, or Diagnostic Aid",yellow
+T195,Antibiotic,yellow
+T039,Physiologic Function,red
+T040,Organism Function,red
+T041,Mental Process,red
+T170,Intellectual Product,yellow
+T191,Neoplastic Process,green
