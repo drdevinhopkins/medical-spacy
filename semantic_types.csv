@@ -1,27 +1,27 @@
 ﻿code,semantic_type,color,color_hex
-T029,Body Location or Region,red,#F08080
-T023,"Body Part, Organ or Organ Component",red,#F08080
-T031,Body Substance,red,#F08080
-T060,Diagnostic Procedure,purple,#DDA0DD
-T047,Disease or Syndrome,green,#90EE90
-T074,Medical Device,purple,#DDA0DD
-T200,Clinical Drug,yellow,#FFFFE0
-T203,Drug Delivery Device,yellow,#FFFFE0
-T033,Finding,blue,#ADD8E6
-T184,Sign or Symptom,blue,#ADD8E6
+T029,Body Location or Region,lightcoral,#F08080
+T023,"Body Part, Organ or Organ Component",lightcoral,#F08080
+T031,Body Substance,lightcoral,#F08080
+T060,Diagnostic Procedure,lavender,#DDA0DD
+T047,Disease or Syndrome,lightgreen,#90EE90
+T074,Medical Device,lavender,#DDA0DD
+T200,Clinical Drug,lightyellow,#FFFFE0
+T203,Drug Delivery Device,lightyellow,#FFFFE0
+T033,Finding,lightblue,#ADD8E6
+T184,Sign or Symptom,lightblue,#ADD8E6
 T034,Laboratory or Test Result,orange,#FFDEAD
-T058,Health Care Activity,purple,#DDA0DD
-T059,Laboratory Procedure,purple,#DDA0DD
-T037,Injury or Poisoning,green,#90EE90
-T061,Therapeutic or Preventive Procedure,purple,#DDA0DD
-T048,Mental or Behavioural Dysfunction,green,#90EE90
-T046,Pathologic Function,green,#90EE90
-T121,Pharmacologic Substance,yellow,#FFFFF0
-T201,Clinical Attribute,blue,#ADD8E6
-T130,"Indicator, Reagent, or Diagnostic Aid",yellow,#FFFFE0
-T195,Antibiotic,yellow,#FFFFE0
-T039,Physiologic Function,red,#F08080
-T040,Organism Function,red,#F08080
-T041,Mental Process,red,#F08080
-T170,Intellectual Product,yellow,#FFFFE0
-T191,Neoplastic Process,green,#90EE90
+T058,Health Care Activity,lavender,#DDA0DD
+T059,Laboratory Procedure,lavender,#DDA0DD
+T037,Injury or Poisoning,lightgreen,#90EE90
+T061,Therapeutic or Preventive Procedure,lavender,#DDA0DD
+T048,Mental or Behavioural Dysfunction,lightgreen,#90EE90
+T046,Pathologic Function,lightgreen,#90EE90
+T121,Pharmacologic Substance,lightyellow,#FFFFF0
+T201,Clinical Attribute,lightblue,#ADD8E6
+T130,"Indicator, Reagent, or Diagnostic Aid",lightyellow,#FFFFE0
+T195,Antibiotic,lightyellow,#FFFFE0
+T039,Physiologic Function,lightcoral,#F08080
+T040,Organism Function,lightcoral,#F08080
+T041,Mental Process,lightcoral,#F08080
+T170,Intellectual Product,lightyellow,#FFFFE0
+T191,Neoplastic Process,lightgreen,#90EE90
