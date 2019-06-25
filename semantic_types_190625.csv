@@ -18,7 +18,7 @@ T019,Congenital Abnormality,lightyellow
 T020,Acquired Abnormality,lightyellow
 T021,Fully Formed Anatomical Structure,lightyellow
 T022,Body System,lightyellow
-T023,Body Part, Organ, or Organ Component,lighyellow
+T023,"Body Part, Organ, or Organ Component",lighyellow
 T024,Tissue,lightyellow
 T025,Cell,lightyellow
 T026,Cell Component,lightyellow
