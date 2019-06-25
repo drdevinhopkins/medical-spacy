@@ -17,15 +17,15 @@ T018,Embryonic Structure,lightyellow
 T019,Congenital Abnormality,lightyellow
 T020,Acquired Abnormality,lightyellow
 T021,Fully Formed Anatomical Structure,lightyellow
-T022,Body System,lightcoral
-T023,"Body Part, Organ, or Organ Component",lightcoral
+T022,Body System,lightyellow
+T023,Body Part, Organ, or Organ Component,lighyellow
 T024,Tissue,lightyellow
 T025,Cell,lightyellow
 T026,Cell Component,lightyellow
 T028,Gene or Genome,lightyellow
-T029,Body Location or Region,lightcoral
-T030,Body Space or Junction,lightcoral
-T031,Body Substance,lightcoral
+T029,Body Location or Region,lightyellow
+T030,Body Space or Junction,lightyellow
+T031,Body Substance,lightyellow
 T032,Organism Attribute,lightyellow
 T033,Finding,lightblue
 T034,Laboratory or Test Result,orange
